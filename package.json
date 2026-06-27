@@ -1,0 +1,17 @@
+{
+  "name": "totoalsemdownload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/capture.mjs",
+  "scripts": {
+    "capture": "node src/capture.mjs",
+    "inspect-kaplan": "node src/inspect-kaplan.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.61.0"
+  }
+}
