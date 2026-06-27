@@ -1,0 +1,3377 @@
+[
+  {
+    "id": "c71f64fd-22c5-4e98-92ee-2b1ff1da518a",
+    "title": "tb255078.CISSPPT4E.pt4.001",
+    "question_text": "What type of access control is intended to discover unwanted or unauthorized activity by providing information after the event has occurred?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_001_0001",
+        "label": "A. Preventive"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_001_0002",
+        "label": "B. Corrective"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_001_0003",
+        "label": "C. Detective"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_001_0004",
+        "label": "D. Directive"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_001_0003",
+    "correct_answer_label": "C. Detective",
+    "explanation": "Detective access controls operate after the fact and are intended to detect or discover unwanted access or activity. Preventive access controls are designed to prevent the activity from occurring, whereas corrective controls return an environment to its original status after an issue occurs. Directive access controls limit or direct the actions of subjects to ensure compliance with policies.",
+    "question_key": "tb255078_cissppt4e_pt4_001"
+  },
+  {
+    "id": "7634b91b-514a-4b89-b9b6-fdbf9d6de371",
+    "title": "tb255078.CISSPPT4E.pt4.002",
+    "question_text": "Which one of the following presents the most complex decoy environment for an attacker to explore during an intrusion attempt?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_002_0001",
+        "label": "A. Honeypot"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_002_0002",
+        "label": "B. Darknet"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_002_0003",
+        "label": "C. Honeynet"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_002_0004",
+        "label": "D. Pseudo‐flaw"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_002_0003",
+    "correct_answer_label": "C. Honeynet",
+    "explanation": "A honeypot is a decoy computer system used to bait intruders into attacking. A honeynet is a network of multiple honeypots that creates a more sophisticated environment for intruders to explore. A pseudo‐flaw is a false vulnerability in a system that may distract an attacker. Administrators often include pseudo‐flaws on honeypots to emulate well‐known operating system vulnerabilities. A darknet is a segment of unused network address space that should have no network activity and, therefore, may be easily used to monitor for illicit activity.",
+    "question_key": "tb255078_cissppt4e_pt4_002"
+  },
+  {
+    "id": "71eede2e-32da-4a6b-b38c-852946e5da12",
+    "title": "tb255078.CISSPPT4E.pt4.003",
+    "question_text": "Ben’s organization is adopting biometric authentication for their high‐security building’s access control system. Using this chart, answer the question about their adoption of the technology.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_003_0001",
+        "label": "A. The FRR crossover"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_003_0002",
+        "label": "B. The FAR point"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_003_0003",
+        "label": "C. The CER"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_003_0004",
+        "label": "D. The CFR"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_003_0003",
+    "correct_answer_label": "C. The CER",
+    "explanation": "The crossover error rate (CER) is the point where the false acceptance rate (FAR) and the false rejection rate (FRR) cross over, and it is a standard assessment used to compare the accuracy of biometric devices.",
+    "question_key": "tb255078_cissppt4e_pt4_003"
+  },
+  {
+    "id": "e5966dfc-f1ee-4b3e-a931-3c33d8c8b16a",
+    "title": "tb255078.CISSPPT4E.pt4.004",
+    "question_text": "Ben’s organization is adopting biometric authentication for their high‐security building’s access control system. Using this chart, answer the question about their adoption of the technology.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_004_0001",
+        "label": "A. False acceptance will be very high."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_004_0002",
+        "label": "B. False rejection will be very high."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_004_0003",
+        "label": "C. False rejection will be very low."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_004_0004",
+        "label": "D. False acceptance will be very low."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_004_0001",
+    "correct_answer_label": "A. False acceptance will be very high.",
+    "explanation": "At point B, the false acceptance rate (FAR) is quite high, whereas the false rejection rate (FRR) is relatively low. This may be acceptable in some circumstances, but in organizations where a false acceptance can cause a major problem, it is likely that they should instead choose a point to the right of point A.",
+    "question_key": "tb255078_cissppt4e_pt4_004"
+  },
+  {
+    "id": "51479e36-8831-4367-a942-1dcdffb2b495",
+    "title": "tb255078.CISSPPT4E.pt4.005",
+    "question_text": "Ben’s organization is adopting biometric authentication for their high‐security building’s access control system. Using this chart, answer the question about their adoption of the technology.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_005_0001",
+        "label": "A. Adjust the sensitivity of the biometric devices."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_005_0002",
+        "label": "B. Assess other biometric systems to compare them."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_005_0003",
+        "label": "C. Move the CER."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_005_0004",
+        "label": "D. Adjust the FRR settings in the software."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_005_0002",
+    "correct_answer_label": "B. Assess other biometric systems to compare them.",
+    "explanation": "CER is a standard used to assess biometric devices. If the CER for this device does not fit the needs of the organization, Ben should assess other biometric systems to find one with a lower CER. Sensitivity is already accounted for in CER charts, and moving the CER isn’t something Ben can do. FRR is not a setting in software, so Ben can’t use that as an option either.",
+    "question_key": "tb255078_cissppt4e_pt4_005"
+  },
+  {
+    "id": "de7a6fd9-612e-4b5e-8211-3a9500bd0183",
+    "title": "tb255078.CISSPPT4E.pt4.006",
+    "question_text": "Ed is tasked with protecting information about his organization’s customers, including their name, Social Security number, birthdate, and place of birth, as well as a variety of other information. What is this information known as?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_006_0001",
+        "label": "A. PHI"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_006_0002",
+        "label": "B. PII"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_006_0003",
+        "label": "C. Personal protected data"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_006_0004",
+        "label": "D. PID"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_006_0002",
+    "correct_answer_label": "B. PII",
+    "explanation": "Personally identifiable information (PII) can be used to distinguish a person’s identity. Personal health information (PHI) includes data such as medical history, lab results, insurance information, and other details about a patient. Personal protected data is a made‐up term, and PID is an acronym for process ID, the number associated with a running program or process.",
+    "question_key": "tb255078_cissppt4e_pt4_006"
+  },
+  {
+    "id": "35dc8ab2-1597-425d-a66d-b221e7d01a57",
+    "title": "tb255078.CISSPPT4E.pt4.007",
+    "question_text": "What software development life‐cycle model is shown in the following illustration?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_007_0001",
+        "label": "A. Spiral"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_007_0002",
+        "label": "B. Agile"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_007_0003",
+        "label": "C. Boehm"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_007_0004",
+        "label": "D. Waterfall"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_007_0004",
+    "correct_answer_label": "D. Waterfall",
+    "explanation": "The figure shows the waterfall model, developed by Winston Royce. An important characteristic of this model is a series of sequential steps that include a feedback loop that allows the process to return one step prior to the current step when necessary.",
+    "question_key": "tb255078_cissppt4e_pt4_007"
+  },
+  {
+    "id": "8e756a7c-5ea3-4ab9-894c-8a53f4b33849",
+    "title": "tb255078.CISSPPT4E.pt4.008",
+    "question_text": "Encapsulation is the core concept that enables what type of protocol?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_008_0001",
+        "label": "A. Bridging"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_008_0002",
+        "label": "B. Multilayer"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_008_0003",
+        "label": "C. Hashing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_008_0004",
+        "label": "D. Storage"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_008_0002",
+    "correct_answer_label": "B. Multilayer",
+    "explanation": "Encapsulation creates both the benefits and potential issues with multilayer protocols. Bridging can use various protocols but does not rely on encapsulation. Hashing and storage protocols typically do not rely on encapsulation as a core part of their functionality.",
+    "question_key": "tb255078_cissppt4e_pt4_008"
+  },
+  {
+    "id": "8e64a891-b047-4e2a-8c6e-072e265b76f9",
+    "title": "tb255078.CISSPPT4E.pt4.009",
+    "question_text": "Amanda wants to use contacts from the existing Gmail accounts that new users already have for her application. What protocol from the following options is used to provide secure delegated access?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_009_0001",
+        "label": "A. Open ID"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_009_0002",
+        "label": "B. Kerberos"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_009_0003",
+        "label": "C. OAuth"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_009_0004",
+        "label": "D. SAML"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_009_0003",
+    "correct_answer_label": "C. OAuth",
+    "explanation": "OAuth is used to provide secure delegated access in scenarios exactly like this. OpenID is used to sign in using credentials from an identity provider to other services, such as when you log in with Google to other sites. SAML, or Security Assertion Markup Language, is used to make security assertions allowing authentication and authorizations between identity providers and service providers. Kerberos is mostly used inside of organizations instead of for federation, as this question focuses on. OAuth is specifically designed to provide secure delegated access, allowing Amanda’s application to access users’ Gmail contacts without requiring users to share their Gmail credentials. It is widely used by cloud services for this purpose. In contrast, OpenID is primarily for authenticating users with an external identity provider, SAML is used for exchanging authentication and authorization data between providers, and Kerberos is typically employed for internal network authentication, not for cloud‐based or federated services as described in this scenario.",
+    "question_key": "tb255078_cissppt4e_pt4_009"
+  },
+  {
+    "id": "2fce5a20-9e22-4ea8-aa40-b575e7a3af6c",
+    "title": "tb255078.CISSPPT4E.pt4.010",
+    "question_text": "Which one of the following metrics specifies the amount of time that business continuity planners find acceptable for the restoration of service after a disaster?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_010_0001",
+        "label": "A. MTD"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_010_0002",
+        "label": "B. RTO"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_010_0003",
+        "label": "C. RPO"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_010_0004",
+        "label": "D. MTO"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_010_0002",
+    "correct_answer_label": "B. RTO",
+    "explanation": "The recovery time objective (RTO) is the amount of time that it may take to restore a service after a disaster without unacceptable impact on the business. The RTO for each service is identified during a business impact assessment.",
+    "question_key": "tb255078_cissppt4e_pt4_010"
+  },
+  {
+    "id": "bf9cb03f-63d2-4f1f-986a-0e8ff704cb6a",
+    "title": "tb255078.CISSPPT4E.pt4.011",
+    "question_text": "Jill is working to procure new network hardware for her organization. She finds a gray market supplier that is importing the hardware from outside the country at a much lower price. What security concern is the most significant for hardware acquired this way?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_011_0001",
+        "label": "A. The security of the hardware and firmware"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_011_0002",
+        "label": "B. Availability of support for the hardware and software"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_011_0003",
+        "label": "C. Whether the hardware is a legitimate product of the actual vendor"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_011_0004",
+        "label": "D. The age of the hardware"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_011_0001",
+    "correct_answer_label": "A. The security of the hardware and firmware",
+    "explanation": "Each of these answers may be a concern, but the overriding security concern is whether the hardware and firmware can be trusted or may have been modified. Original equipment manufacturers (OEMs) have business reasons to ensure the security of their products, but third parties in the supply chain may not feel the same pressure. Both availability of support and whether the hardware is legitimate are also concerns, but less immediate security concerns. Finally, hardware may be older than expected, or may be used, refurbished, or otherwise not new.",
+    "question_key": "tb255078_cissppt4e_pt4_011"
+  },
+  {
+    "id": "2306c7fe-2a7e-45b7-af10-9e4e050e0382",
+    "title": "tb255078.CISSPPT4E.pt4.012",
+    "question_text": "What process is typically used to ensure data security for workstations that are being removed from service but that will be resold or otherwise reused?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_012_0001",
+        "label": "A. Destruction"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_012_0002",
+        "label": "B. Erasing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_012_0003",
+        "label": "C. Sanitization"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_012_0004",
+        "label": "D. Clearing"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_012_0003",
+    "correct_answer_label": "C. Sanitization",
+    "explanation": "When done properly, a sanitization process fully ensures that data does not remain on the system before it is reused. Clearing and erasing can both be failure prone, and of course, destruction wouldn’t leave a machine or device available for reuse.",
+    "question_key": "tb255078_cissppt4e_pt4_012"
+  },
+  {
+    "id": "6e10be9c-d32c-4a90-88bf-d199eb6d08ea",
+    "title": "tb255078.CISSPPT4E.pt4.013",
+    "question_text": "Colleen is conducting a software test that is evaluating code for both security flaws and usability issues. She is working with the application from an end‐user perspective and referencing the source code as she works her way through the product. What type of testing is Colleen conducting?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_013_0001",
+        "label": "A. White box"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_013_0002",
+        "label": "B. Blue box"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_013_0003",
+        "label": "C. Gray box"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_013_0004",
+        "label": "D. Black box"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_013_0003",
+    "correct_answer_label": "C. Gray box",
+    "explanation": "In a gray‐box test, the tester evaluates the software from a user perspective but has access to the source code as the test is conducted. White‐box tests also have access to the source code but perform testing from a developer’s perspective. Black‐box tests work from a user’s perspective but do not have access to source code. Blue boxes are a telephone hacking tool and not a software testing technique. Note: as language changes, new terms like zero knowledge, partial knowledge, and full knowledge are starting to replace white‐, gray‐, and black‐box testing terms.",
+    "question_key": "tb255078_cissppt4e_pt4_013"
+  },
+  {
+    "id": "780bbb1e-1d6c-44e2-bb84-c68ae2a7540b",
+    "title": "tb255078.CISSPPT4E.pt4.014",
+    "question_text": "Harold is looking for a software development methodology that will help with a major issue he is seeing in his organization. Currently, developers and operations staff do not work together and are often seen as taking problems and “throwing them over the fence” to the other team. What technology management approach is designed to alleviate this problem?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_014_0001",
+        "label": "A. ITIL"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_014_0002",
+        "label": "B. Lean"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_014_0003",
+        "label": "C. ITSM"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_014_0004",
+        "label": "D. DevOps"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_014_0004",
+    "correct_answer_label": "D. DevOps",
+    "explanation": "The DevOps approach to technology management seeks to integrate software development, operations, and quality assurance in a cohesive effort. It specifically attempts to eliminate the issue of taking problems and “throwing them over the fence” by building collaborative relationships between members of the IT team.",
+    "question_key": "tb255078_cissppt4e_pt4_014"
+  },
+  {
+    "id": "01a3af99-52da-49a5-b37f-2e4acd27106b",
+    "title": "tb255078.CISSPPT4E.pt4.015",
+    "question_text": "NIST Special Publication 800‐92, the Guide to Computer Security Log Management, describes four types of common challenges to log management: Many log sources Inconsistent log content Inconsistent timestamps Inconsistent log formats",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_015_0001",
+        "label": "A. Implement SNMP for all logging devices."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_015_0002",
+        "label": "B. Implement a SIEM tool."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_015_0003",
+        "label": "C. Standardize the Windows event log format for all devices and use NTP."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_015_0004",
+        "label": "D. Ensure that logging is enabled on all endpoints using their native logging formats and set their local time correctly."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_015_0002",
+    "correct_answer_label": "B. Implement a SIEM tool.",
+    "explanation": "A security information and event management (SIEM) tool is designed to centralize logs from many locations in many formats and to ensure that logs are read and analyzed despite differences between different systems and devices. The Simple Network Management Protocol (SNMP) is used for some log messaging but is not a solution that solves all of these problems. Most non‐Windows devices, including network devices among others, are not designed to use the Windows event log format, although using NTP for time synchronization is a good idea. Finally, local logging is useful, but setting clocks individually will result in drift over time and won’t solve the issue with many log sources.",
+    "question_key": "tb255078_cissppt4e_pt4_015"
+  },
+  {
+    "id": "7bec2661-b970-4df1-8fdb-d964ec7d4dc5",
+    "title": "tb255078.CISSPPT4E.pt4.016",
+    "question_text": "Mikayla’s organization has been notified about an authentication bypass vulnerability in their product by a security researcher. The researcher has stated that they will share details about the vulnerability in question within the next 90 days if Mikayla’s company fails to remediate it. However, they are also willing to collaborate with the company to help them understand the issue and provide them with full details on how to re‐create the problem. What process has the researcher followed?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_016_0001",
+        "label": "A. A CVE creation process"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_016_0002",
+        "label": "B. A bug bounty"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_016_0003",
+        "label": "C. Ethical disclosure"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_016_0004",
+        "label": "D. Blackmail"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_016_0003",
+    "correct_answer_label": "C. Ethical disclosure",
+    "explanation": "Ethical disclosure involves informing organizations of flaws and issues. Unlike bug bounties, this does not rely on organizations providing financial or other rewards. Ethical disclosure may involve timeframes to ensure that companies do not ignore issues, but a focus on collaboration and public safety is common. CVEs are created when flaws are reported to the CVE program. There is no blackmail behavior involved in this description.",
+    "question_key": "tb255078_cissppt4e_pt4_016"
+  },
+  {
+    "id": "5ddbb614-dc59-46ce-8281-0085c11b166d",
+    "title": "tb255078.CISSPPT4E.pt4.017",
+    "question_text": "Carlos is investigating the compromise of sensitive information in his organization. He believes that attackers managed to retrieve personnel information on all employees from the database and finds the following user‐supplied input in a log entry for a web‐based personnel management system:",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_017_0001",
+        "label": "A. SQL injection, use of stored procedures"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_017_0002",
+        "label": "B. Buffer overflow, automatic buffer expansion"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_017_0003",
+        "label": "C. Cross‐site scripting, turning on XSS prevention on the web server"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_017_0004",
+        "label": "D. Cross‐site request forgery, requiring signed requests"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_017_0001",
+    "correct_answer_label": "A. SQL injection, use of stored procedures",
+    "explanation": "The single quotation mark in the input field is a telltale sign that this is a SQL injection attack. The quotation mark is used to escape outside the SQL code’s input field, and the text that follows is used to directly manipulate the SQL command sent from the web application to the database.",
+    "question_key": "tb255078_cissppt4e_pt4_017"
+  },
+  {
+    "id": "8128ce2b-c9bd-45e2-80d2-728814843827",
+    "title": "tb255078.CISSPPT4E.pt4.018",
+    "question_text": "Which one of the following is a detailed, step‐by‐step document that describes the exact actions that individuals must complete?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_018_0001",
+        "label": "A. Policy"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_018_0002",
+        "label": "B. Standard"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_018_0003",
+        "label": "C. Guideline"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_018_0004",
+        "label": "D. Procedure"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_018_0004",
+    "correct_answer_label": "D. Procedure",
+    "explanation": "Procedures are formal, mandatory documents that provide detailed, step‐by‐step actions required from individuals performing a task.",
+    "question_key": "tb255078_cissppt4e_pt4_018"
+  },
+  {
+    "id": "e42a43a2-1649-4f2e-aedb-1f2311ea1949",
+    "title": "tb255078.CISSPPT4E.pt4.019",
+    "question_text": "For what purpose are the CIS benchmarks frequently used in organizations?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_019_0001",
+        "label": "A. Secure coding standards"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_019_0002",
+        "label": "B. Performance testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_019_0003",
+        "label": "C. Baselining"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_019_0004",
+        "label": "D. Monitoring metrics"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_019_0003",
+    "correct_answer_label": "C. Baselining",
+    "explanation": "The CIS benchmarks are configuration baselines that are frequently used to assess the security settings or configuration for devices and software. Baselining is the process of configuring and validating that a system meets security configuration guidelines or standards.",
+    "question_key": "tb255078_cissppt4e_pt4_019"
+  },
+  {
+    "id": "3a296d75-3a8b-4622-99d7-53e27f3b0258",
+    "title": "tb255078.CISSPPT4E.pt4.020",
+    "question_text": "Carlos’ team has detected a compromise and initiated the incident response process. What will happen next?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_020_0001",
+        "label": "A. Remediation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_020_0002",
+        "label": "B. Mitigation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_020_0003",
+        "label": "C. Reporting"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_020_0004",
+        "label": "D. Lessons learned"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_020_0002",
+    "correct_answer_label": "B. Mitigation",
+    "explanation": "A typical incident response (IR) process will begin mitigation efforts after response has started and then will move into the recovery, reporting, and lessons learned phases. It is important to remember that while the IR cycle is drawn as a cycle, it often moves back and forth between phases as new issues or details are identified.",
+    "question_key": "tb255078_cissppt4e_pt4_020"
+  },
+  {
+    "id": "1bad9a95-17d8-4ec8-9df3-f187435d41fd",
+    "title": "tb255078.CISSPPT4E.pt4.021",
+    "question_text": "Carlos is planning a design for a data center that will be constructed within a new four‐story corporate headquarters. The building consists of a basement and three above‐ground floors. What is the best location for the data center?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_021_0001",
+        "label": "A. Basement"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_021_0002",
+        "label": "B. First floor"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_021_0003",
+        "label": "C. Second floor"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_021_0004",
+        "label": "D. Third floor"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_021_0003",
+    "correct_answer_label": "C. Second floor",
+    "explanation": "Data centers should be located in the core of a building. Locating it on lower floors makes it susceptible to flooding and physical break‐ins. Locating it on the top floor makes it vulnerable to wind and roof damage.",
+    "question_key": "tb255078_cissppt4e_pt4_021"
+  },
+  {
+    "id": "c4b82be2-464d-45a4-824d-d6657ba6060e",
+    "title": "tb255078.CISSPPT4E.pt4.022",
+    "question_text": "Chris is an information security professional for a major corporation, and as he is walking into the building, he notices that the door to a secure area has been left ajar. Physical security does not fall under his responsibility, but he takes immediate action by closing the door and informing the physical security team of his action. What principle is Chris demonstrating?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_022_0001",
+        "label": "A. Due care"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_022_0002",
+        "label": "B. Crime prevention through environmental design"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_022_0003",
+        "label": "C. Separation of duties"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_022_0004",
+        "label": "D. Informed consent"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_022_0001",
+    "correct_answer_label": "A. Due care",
+    "explanation": "The due care principle states that an individual should react in a situation using the same level of care that would be expected from any reasonable person. It is a very broad standard. Crime prevention through environmental design is a design concept that focuses on making environments less conducive to illicit or unwanted actions. Separation of duties splits duties to ensure that a malicious actor cannot perform actions on their own like making a purchase and approving it. Informed consent is a term used in the medical industry that requires that a person’s permission is required and that they must be aware of what the consequences of their actions could be.",
+    "question_key": "tb255078_cissppt4e_pt4_022"
+  },
+  {
+    "id": "85524545-2aee-4855-bf7b-95d4feea7c8d",
+    "title": "tb255078.CISSPPT4E.pt4.023",
+    "question_text": "Which one of the following investigation types always uses the beyond‐a‐reasonable‐doubt standard of proof?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_023_0001",
+        "label": "A. Civil investigation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_023_0002",
+        "label": "B. Criminal investigation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_023_0003",
+        "label": "C. Operational investigation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_023_0004",
+        "label": "D. Regulatory investigation"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_023_0002",
+    "correct_answer_label": "B. Criminal investigation",
+    "explanation": "Criminal investigations have high stakes with severe punishment for the offender that may include incarceration. Therefore, they use the strictest standard of evidence of all investigations: beyond a reasonable doubt. Civil investigations use a preponderance‐of‐the‐evidence standard. Regulatory investigations may use whatever standard is appropriate for the venue where the evidence will be heard. This may include the beyond‐a‐reasonable‐doubt standard, but it is not always used in regulatory investigations in the United States. Operational investigations do not use a standard of evidence.",
+    "question_key": "tb255078_cissppt4e_pt4_023"
+  },
+  {
+    "id": "b9db6d10-4187-440f-89d4-16da931e78b1",
+    "title": "tb255078.CISSPPT4E.pt4.024",
+    "question_text": "Kristen wants to use multiple processing sites for her data but does not want to pay for a full data center. Which of the following options would you recommend as her best option if she wants to be able to quickly migrate portions of her custom application environment to facilities in multiple countries without having to wait to ship or acquire hardware?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_024_0001",
+        "label": "A. A cloud PaaS vendor"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_024_0002",
+        "label": "B. A hosted data center provider"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_024_0003",
+        "label": "C. A cloud IaaS vendor"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_024_0004",
+        "label": "D. A data center vendor that provides rack, power, and remote hands services"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_024_0003",
+    "correct_answer_label": "C. A cloud IaaS vendor",
+    "explanation": "A cloud IaaS vendor will allow Kristen to set up infrastructure as quickly as she can deploy and pay for it. A PaaS vendor provides a platform that would require her to migrate her custom application to it, likely taking longer than a hosted data‐center provider. A data‐center vendor that provides rack, power, and remote hands assistance fails the test based on Kristen’s desire to not have to acquire or ship hardware.",
+    "question_key": "tb255078_cissppt4e_pt4_024"
+  },
+  {
+    "id": "c2fd997c-984e-49e2-bdc8-f99e6308bffb",
+    "title": "tb255078.CISSPPT4E.pt4.025",
+    "question_text": "What type of alternate processing facility contains the hardware necessary to restore operations but does not have a current copy of data?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_025_0001",
+        "label": "A. Hot site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_025_0002",
+        "label": "B. Warm site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_025_0003",
+        "label": "C. Cold site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_025_0004",
+        "label": "D. Mobile site"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_025_0002",
+    "correct_answer_label": "B. Warm site",
+    "explanation": "Warm sites contain the hardware necessary to restore operations but do not have a current copy of data.",
+    "question_key": "tb255078_cissppt4e_pt4_025"
+  },
+  {
+    "id": "d1fa8f72-60e8-4158-90d6-021ea39c8c94",
+    "title": "tb255078.CISSPPT4E.pt4.026",
+    "question_text": "Which one of the following terms describes a period of momentary high voltage?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_026_0001",
+        "label": "A. Sag"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_026_0002",
+        "label": "B. Brownout"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_026_0003",
+        "label": "C. Spike"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_026_0004",
+        "label": "D. Surge"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_026_0003",
+    "correct_answer_label": "C. Spike",
+    "explanation": "A power spike is a momentary period of high voltage. A surge is a prolonged period of high voltage. Sags and brownouts are periods of low voltage.",
+    "question_key": "tb255078_cissppt4e_pt4_026"
+  },
+  {
+    "id": "59e4560f-f7fc-4833-9a0f-3ca0593b512f",
+    "title": "tb255078.CISSPPT4E.pt4.027",
+    "question_text": "Greg needs to label drives used for his company’s medical insurance claims database. What data label from the following list best matches the type of data he is dealing with?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_027_0001",
+        "label": "A. PII"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_027_0002",
+        "label": "B. Secret"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_027_0003",
+        "label": "C. Business confidential"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_027_0004",
+        "label": "D. PHI"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_027_0004",
+    "correct_answer_label": "D. PHI",
+    "explanation": "Medical insurance claims will contain protected health information, or PHI. Greg should label the drives as containing PHI and then ensure that they are handled according to his organization’s handling standards for that type of data.",
+    "question_key": "tb255078_cissppt4e_pt4_027"
+  },
+  {
+    "id": "7476bda1-b1f2-401a-9a3b-6420b918483a",
+    "title": "tb255078.CISSPPT4E.pt4.028",
+    "question_text": "Marco wants to deploy a network security device that can detect and stop network‐based attacks without additional external intervention. What type of device should he employ and in what configuration?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_028_0001",
+        "label": "A. An inline IDS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_028_0002",
+        "label": "B. An IDS connected through a network tap"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_028_0003",
+        "label": "C. An inline IPS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_028_0004",
+        "label": "D. An IPS connected through a network tap"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_028_0003",
+    "correct_answer_label": "C. An inline IPS",
+    "explanation": "While both an intrusion detection system (IDS) and an intrusion prevention system (IPS) can detect attacks, only an IPS can stop attacks. This requires the IPS to be placed inline. A connection via a network tap, span port, or other similar tool for replicating network traffic will not allow defensive actions to be taken directly by the device.",
+    "question_key": "tb255078_cissppt4e_pt4_028"
+  },
+  {
+    "id": "def13c0e-3b8a-4126-a271-7daa6dc35681",
+    "title": "tb255078.CISSPPT4E.pt4.029",
+    "question_text": "Selah wants to ensure that vehicles cannot crash through her company’s entryway and front lobby while still remaining accessible to pedestrians and wheelchairs or other mobility devices. What physical security control is best suited to this purpose?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_029_0001",
+        "label": "A. Fences"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_029_0002",
+        "label": "B. Bollards"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_029_0003",
+        "label": "C. Walls"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_029_0004",
+        "label": "D. Stairs"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_029_0002",
+    "correct_answer_label": "B. Bollards",
+    "explanation": "Bollards are physical security solutions that are short and strong posts or similar solutions intended to stop vehicles from crashing through or passing an area. Bollards can be used to allow pedestrians and mobility devices to pass while stopping vehicles. Fences and walls will prevent individuals from passing through them, while stairs are challenging for most mobility devices.",
+    "question_key": "tb255078_cissppt4e_pt4_029"
+  },
+  {
+    "id": "df8918c2-9e69-4114-97e7-ac061f76e722",
+    "title": "tb255078.CISSPPT4E.pt4.030",
+    "question_text": "Please refer to the following scenario: Concho Controls is a midsize business focusing on building automation systems. It hosts a set of local file servers in its on‐premises data center that store customer proposals, building plans, product information, and other data that is critical to its business operations. Tara works in the Concho Controls IT department and is responsible for designing and implementing the organization’s backup strategy, among other tasks. She currently conducts full backups every Sunday evening at 8 p.m. and differential backups on Monday through Friday at noon. Concho experiences a server failure at 3 p.m. on Wednesday. Tara rebuilds the server and wants to restore data from the backups.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_030_0001",
+        "label": "A. Sunday’s full backup"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_030_0002",
+        "label": "B. Monday’s differential backup"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_030_0003",
+        "label": "C. Tuesday’s differential backup"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_030_0004",
+        "label": "D. Wednesday’s differential backup"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_030_0001",
+    "correct_answer_label": "A. Sunday’s full backup",
+    "explanation": "Tara first must achieve a system baseline. She does this by applying the most recent full backup to the new system. This is Sunday’s full backup. Once Tara establishes this baseline, she may then proceed to apply differential backups to bring the system back to a more recent state.",
+    "question_key": "tb255078_cissppt4e_pt4_030"
+  },
+  {
+    "id": "5ea36964-dddf-4ccc-afc5-006ebf3dcede",
+    "title": "tb255078.CISSPPT4E.pt4.031",
+    "question_text": "Please refer to the following scenario: Concho Controls is a midsize business focusing on building automation systems. It hosts a set of local file servers in its on‐premises data center that store customer proposals, building plans, product information, and other data that is critical to its business operations. Tara works in the Concho Controls IT department and is responsible for designing and implementing the organization’s backup strategy, among other tasks. She currently conducts full backups every Sunday evening at 8 p.m. and differential backups on Monday through Friday at noon. Concho experiences a server failure at 3 p.m. on Wednesday. Tara rebuilds the server and wants to restore data from the backups.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_031_0001",
+        "label": "A. 1"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_031_0002",
+        "label": "B. 2"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_031_0003",
+        "label": "C. 3"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_031_0004",
+        "label": "D. 4"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_031_0002",
+    "correct_answer_label": "B. 2",
+    "explanation": "To restore the system to as current a state as possible, Tara must first apply Sunday’s full backup. She may then apply the most recent differential backup, from Wednesday at noon. Differential backups include all files that have changed since the most recent full backup, so the contents of Wednesday’s backup contain all of the data that would be contained in Monday and Tuesday’s backups, making the Monday and Tuesday backups irrelevant for this scenario.",
+    "question_key": "tb255078_cissppt4e_pt4_031"
+  },
+  {
+    "id": "bd5d981e-28ec-40c2-8a3a-36654a2e0fec",
+    "title": "tb255078.CISSPPT4E.pt4.032",
+    "question_text": "Please refer to the following scenario: Concho Controls is a midsize business focusing on building automation systems. It hosts a set of local file servers in its on‐premises data center that store customer proposals, building plans, product information, and other data that is critical to its business operations. Tara works in the Concho Controls IT department and is responsible for designing and implementing the organization’s backup strategy, among other tasks. She currently conducts full backups every Sunday evening at 8 p.m. and differential backups on Monday through Friday at noon. Concho experiences a server failure at 3 p.m. on Wednesday. Tara rebuilds the server and wants to restore data from the backups.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_032_0001",
+        "label": "A. 3 hours."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_032_0002",
+        "label": "B. 5 hours."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_032_0003",
+        "label": "C. 8 hours."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_032_0004",
+        "label": "D. No data will be lost."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_032_0001",
+    "correct_answer_label": "A. 3 hours.",
+    "explanation": "In this scenario, the differential backup was made at noon, and the server failed at 3 p.m. Therefore, any data modified or created between noon and 3 p.m. on Wednesday will not be contained on any backup and will be irretrievably lost.",
+    "question_key": "tb255078_cissppt4e_pt4_032"
+  },
+  {
+    "id": "7d9abff4-fea3-4d46-a44c-4a381ba94f44",
+    "title": "tb255078.CISSPPT4E.pt4.033",
+    "question_text": "Please refer to the following scenario: Concho Controls is a midsize business focusing on building automation systems. It hosts a set of local file servers in its on‐premises data center that store customer proposals, building plans, product information, and other data that is critical to its business operations. Tara works in the Concho Controls IT department and is responsible for designing and implementing the organization’s backup strategy, among other tasks. She currently conducts full backups every Sunday evening at 8 p.m. and differential backups on Monday through Friday at noon. Concho experiences a server failure at 3 p.m. on Wednesday. Tara rebuilds the server and wants to restore data from the backups.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_033_0001",
+        "label": "A. 1"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_033_0002",
+        "label": "B. 2"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_033_0003",
+        "label": "C. 3"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_033_0004",
+        "label": "D. 4"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_033_0004",
+    "correct_answer_label": "D. 4",
+    "explanation": "By switching from differential to incremental backups, Tara’s weekday backups will contain only the information changed since the previous day. Therefore, she must apply all of the available incremental backups. She would begin by restoring the Sunday full backup and then apply the Monday, Tuesday, and Wednesday incremental backups.",
+    "question_key": "tb255078_cissppt4e_pt4_033"
+  },
+  {
+    "id": "09af0daa-5343-4abe-8975-9031d99eec05",
+    "title": "tb255078.CISSPPT4E.pt4.034",
+    "question_text": "Please refer to the following scenario: Concho Controls is a midsize business focusing on building automation systems. It hosts a set of local file servers in its on‐premises data center that store customer proposals, building plans, product information, and other data that is critical to its business operations. Tara works in the Concho Controls IT department and is responsible for designing and implementing the organization’s backup strategy, among other tasks. She currently conducts full backups every Sunday evening at 8 p.m. and differential backups on Monday through Friday at noon. Concho experiences a server failure at 3 p.m. on Wednesday. Tara rebuilds the server and wants to restore data from the backups.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_034_0001",
+        "label": "A. Monday’s incremental backup."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_034_0002",
+        "label": "B. Tuesday’s incremental backup."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_034_0003",
+        "label": "C. Wednesday’s incremental backup."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_034_0004",
+        "label": "D. All three will be the same size."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_034_0004",
+    "correct_answer_label": "D. All three will be the same size.",
+    "explanation": "Each incremental backup contains only the information changed since the most recent full or incremental backup. If we assume that the same amount of information changes every day, each of the incremental backups would be roughly the same size.",
+    "question_key": "tb255078_cissppt4e_pt4_034"
+  },
+  {
+    "id": "29840157-4200-479b-b64f-53cb27e0a333",
+    "title": "tb255078.CISSPPT4E.pt4.035",
+    "question_text": "The following figure shows an example of an attack where Mal, the attacker, has redirected traffic from a user’s system to their own, allowing them to read TLS encrypted traffic. Which of the following terms best describes this attack?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_035_0001",
+        "label": "A. A DNS hijacking attack"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_035_0002",
+        "label": "B. An ARP spoofing attack"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_035_0003",
+        "label": "C. A man‐in‐the‐middle attack"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_035_0004",
+        "label": "D. A SQL injection attack"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_035_0003",
+    "correct_answer_label": "C. A man‐in‐the‐middle attack",
+    "explanation": "A man‐in‐the‐middle (MiTM), often referred to as a person‐in‐the‐middle or on‐path attack, allows an attacker to redirect traffic and thus read or modify it. This can be completely transparent to the end user, making it a dangerous attack if the malicious actor is successful. DNS hijacking would change a system’s domain name information, and there is no direct indication of that here. Similarly, ARP spoofing is one way to conduct a MiTM attack, but that detail is not here either. SQL injection is normally done via web applications to execute commands against a database server.",
+    "question_key": "tb255078_cissppt4e_pt4_035"
+  },
+  {
+    "id": "e4d59086-edcf-44cf-a7d8-2850e8a50fd6",
+    "title": "tb255078.CISSPPT4E.pt4.036",
+    "question_text": "Bob has been tasked with writing a policy that describes how long data should be kept and when it should be purged. What concept does this policy deal with?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_036_0001",
+        "label": "A. Data remanence"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_036_0002",
+        "label": "B. Record retention"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_036_0003",
+        "label": "C. Data redaction"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_036_0004",
+        "label": "D. Audit logging"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_036_0002",
+    "correct_answer_label": "B. Record retention",
+    "explanation": "Record retention ensures that data is kept and maintained as long as it is needed and that it is purged when it is no longer necessary. Data remanence occurs when data is left behind after an attempt is made to remove it, whereas data redaction is not a technical term used to describe this effort. Finally, audit logging may be part of the records retained but doesn’t describe the life cycle of data.",
+    "question_key": "tb255078_cissppt4e_pt4_036"
+  },
+  {
+    "id": "0983511e-a7df-440d-93d5-cfe95d4414ed",
+    "title": "tb255078.CISSPPT4E.pt4.037",
+    "question_text": "Which component of IPsec provides authentication, integrity, and nonrepudiation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_037_0001",
+        "label": "A. L2TP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_037_0002",
+        "label": "B. Encapsulating Security Payload"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_037_0003",
+        "label": "C. Encryption Security Header"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_037_0004",
+        "label": "D. Authentication Header"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_037_0004",
+    "correct_answer_label": "D. Authentication Header",
+    "explanation": "The Authentication Header provides authentication, integrity, and nonrepudiation for IPsec connections. The Encapsulating Security Payload provides encryption and thus provides confidentiality. It can also provide limited authentication. L2TP is an independent VPN protocol, and Encryption Security Header is a made‐up term.",
+    "question_key": "tb255078_cissppt4e_pt4_037"
+  },
+  {
+    "id": "98cf09a4-fb52-4daf-9c92-113ce3be2c05",
+    "title": "tb255078.CISSPPT4E.pt4.038",
+    "question_text": "Renee is reviewing logs and notices that a system on her network recently received connection attempts on all 65,536 TCP ports from a single system during a short period of time. What type of attack did Renee most likely experience?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_038_0001",
+        "label": "A. Denial of service"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_038_0002",
+        "label": "B. Reconnaissance"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_038_0003",
+        "label": "C. Malicious insider"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_038_0004",
+        "label": "D. Compromise"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_038_0002",
+    "correct_answer_label": "B. Reconnaissance",
+    "explanation": "The attack described in the scenario is a classic example of TCP scanning, a network reconnaissance technique that may precede other attacks. There is no evidence that the attack disrupted system availability, which would characterize a denial‐of‐service attack; that it was waged by a malicious insider; or that the attack resulted in the compromise of a system.",
+    "question_key": "tb255078_cissppt4e_pt4_038"
+  },
+  {
+    "id": "64332eb0-f146-41cc-b393-f1af668dd2f9",
+    "title": "tb255078.CISSPPT4E.pt4.039",
+    "question_text": "What type of Windows audit record describes events like an OS shutdown or a service being stopped?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_039_0001",
+        "label": "A. An application log"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_039_0002",
+        "label": "B. A security log"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_039_0003",
+        "label": "C. A system log"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_039_0004",
+        "label": "D. A setup log"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_039_0003",
+    "correct_answer_label": "C. A system log",
+    "explanation": "Windows system logs include reboots, shutdowns, and service state changes. Application logs record events generated by programs, security logs track events like logins and uses of rights, and setup logs track application setup.",
+    "question_key": "tb255078_cissppt4e_pt4_039"
+  },
+  {
+    "id": "f3e7ac1c-fc72-4c84-b39e-37ac53d4bb01",
+    "title": "tb255078.CISSPPT4E.pt4.040",
+    "question_text": "Melissa is in charge of her organization’s security compliance efforts and has been told that the organization does not install Windows patches until a month has passed since the patch has been released unless there is a zero‐day exploit that is being actively exploited. Why would the company delay patching like this?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_040_0001",
+        "label": "A. To minimize business impact of the installation"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_040_0002",
+        "label": "B. To allow any flaws with the patch to be identified"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_040_0003",
+        "label": "C. To prevent malware in the patches from being installed before it is identified"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_040_0004",
+        "label": "D. To allow the patch to be distributed to all systems"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_040_0002",
+    "correct_answer_label": "B. To allow any flaws with the patch to be identified",
+    "explanation": "Many organizations delay patches for a period of time to ensure that any previously unidentified flaws are found before the patches are installed throughout their organization. Melissa needs to balance business impact against security in her role and may choose to support this or to push for more aggressive installation practices depending on the organization’s risk tolerance and security needs.",
+    "question_key": "tb255078_cissppt4e_pt4_040"
+  },
+  {
+    "id": "dcd3a6ef-10de-403b-aa4d-5bab26fa9d31",
+    "title": "tb255078.CISSPPT4E.pt4.041",
+    "question_text": "What level of RAID is also known as disk striping?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_041_0001",
+        "label": "A. RAID 0"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_041_0002",
+        "label": "B. RAID 1"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_041_0003",
+        "label": "C. RAID 5"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_041_0004",
+        "label": "D. RAID 10"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_041_0001",
+    "correct_answer_label": "A. RAID 0",
+    "explanation": "RAID level 0 is also known as disk striping. RAID 1 is called disk mirroring. RAID 5 is called disk striping with parity. RAID 10 is known as a stripe of mirrors.",
+    "question_key": "tb255078_cissppt4e_pt4_041"
+  },
+  {
+    "id": "311eeaeb-80ff-420d-8ead-98dc9fe89cc6",
+    "title": "tb255078.CISSPPT4E.pt4.042",
+    "question_text": "Jake is updating his disaster recovery plan and wants to ensure that the third‐party data center his organization contracts with can handle the scaling requirements needed in a disaster. What type of agreement should Jake sign with the hosting provider?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_042_0001",
+        "label": "A. A resource capacity agreement"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_042_0002",
+        "label": "B. A cold‐site agreement"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_042_0003",
+        "label": "C. An NDA"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_042_0004",
+        "label": "D. A business continuity agreement"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_042_0001",
+    "correct_answer_label": "A. A resource capacity agreement",
+    "explanation": "Resource capacity agreements are used to ensure that appropriate resources will be available in a recovery scenario. Cold sites have only space and utilities and don’t provide full recovery resources. Nondisclosure agreements protect information and won’t ensure resource availability, and business continuity agreements are not a term used in the CISSP exam.",
+    "question_key": "tb255078_cissppt4e_pt4_042"
+  },
+  {
+    "id": "b43101b6-af27-424f-b1a2-e4f78244f707",
+    "title": "tb255078.CISSPPT4E.pt4.043",
+    "question_text": "Diana’s organization teaches employees to use a pre‐arranged code if they are kidnapped or under threat and contact the organization. What type of solution is this?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_043_0001",
+        "label": "A. A duress code"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_043_0002",
+        "label": "B. A panic button"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_043_0003",
+        "label": "C. A kidnap code"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_043_0004",
+        "label": "D. A threat code"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_043_0001",
+    "correct_answer_label": "A. A duress code",
+    "explanation": "Duress codes are pre‐arranged codes used to indicate that the staff member is under duress. They are typically designed to be easy to communicate during normal conversation without alarming whomever may be listening in. Panic buttons are physical buttons used to summon emergency services or responders. Kidnap codes and threat codes were made up for this question.",
+    "question_key": "tb255078_cissppt4e_pt4_043"
+  },
+  {
+    "id": "b2a50363-eb82-46c2-b7fa-c1098cf38519",
+    "title": "tb255078.CISSPPT4E.pt4.044",
+    "question_text": "Fred’s company wants to ensure the integrity of email messages sent via its central email servers. If the confidentiality of the messages is not critical, what solution should Fred suggest?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_044_0001",
+        "label": "A. Digitally sign and encrypt all messages to ensure integrity."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_044_0002",
+        "label": "B. Digitally sign but don’t encrypt all messages."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_044_0003",
+        "label": "C. Use TLS to protect messages, ensuring their integrity."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_044_0004",
+        "label": "D. Use a hashing algorithm to provide a hash in each message to prove that it hasn’t changed."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_044_0002",
+    "correct_answer_label": "B. Digitally sign but don’t encrypt all messages.",
+    "explanation": "Fred’s company needs to protect integrity, which can be accomplished by digitally signing messages. Any change will cause the signature to be invalid. Encrypting isn’t necessary because the company does not want to protect confidentiality. TLS can provide in‐transit protection but won’t protect integrity of the messages, and of course a hash used without a way to verify that the hash wasn’t changed won’t ensure integrity either.",
+    "question_key": "tb255078_cissppt4e_pt4_044"
+  },
+  {
+    "id": "229f0468-46a7-4c44-b951-5b40ced3a741",
+    "title": "tb255078.CISSPPT4E.pt4.045",
+    "question_text": "The leadership at Susan’s company has asked her to implement an access control system that can support rule declarations like “Only allow access to salespeople from managed devices on the wireless network between 8 a.m. and 6 p.m.” What type of access control system would be Susan’s best choice?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_045_0001",
+        "label": "A. ABAC"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_045_0002",
+        "label": "B. RBAC"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_045_0003",
+        "label": "C. DAC"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_045_0004",
+        "label": "D. MAC"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_045_0001",
+    "correct_answer_label": "A. ABAC",
+    "explanation": "An attribute‐based access control (ABAC) system will allow Susan to specify details about subjects, objects, and access, allowing granular control. Although a rule‐based access control system (RBAC) might allow this, the attribute‐based access control system can be more specific and thus is more flexible. Discretionary access control (DAC) would allow object owners to make decisions, and mandatory access controls (MACs) would use classifications; neither of these capabilities was described in the requirements.",
+    "question_key": "tb255078_cissppt4e_pt4_045"
+  },
+  {
+    "id": "ab7540a7-cdc4-4af1-b34f-401d44883838",
+    "title": "tb255078.CISSPPT4E.pt4.046",
+    "question_text": "Nora’s company operates servers on a five‐year life cycle. When they reach their end of life according to that process, the servers are sent to an e‐waste recycler. Which of the following is the most effective control that Nora could implement to ensure that a data breach does not occur due to remanent data?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_046_0001",
+        "label": "A. Zero wipe the drives before the servers leave the organization."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_046_0002",
+        "label": "B. Remove the drives and shred them."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_046_0003",
+        "label": "C. Reformat the drives before the servers are sent to the e‐waste company."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_046_0004",
+        "label": "D. Require certificates of disposal from the e‐waste company."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_046_0002",
+    "correct_answer_label": "B. Remove the drives and shred them.",
+    "explanation": "The most effective control is to remove the drives and shred them, removing any chance for the servers to leave with data remaining on them. A trustworthy company that can provide a certificate of disposal with appropriate contractual controls may be a reasonable and cost‐efficient alternative, but the company may also then want to zero wipe drives before the systems leave to reduce the risk if a system makes it out of the recycler’s control. The worst answer here is reformatting, which will not remove data.",
+    "question_key": "tb255078_cissppt4e_pt4_046"
+  },
+  {
+    "id": "7f480551-d930-44fe-9c47-2704a2c59b2d",
+    "title": "tb255078.CISSPPT4E.pt4.047",
+    "question_text": "Chris is deploying a gigabit Ethernet network using Category 6 cable between two buildings. What is the maximum distance he can run the cable according to the Category 6 standard?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_047_0001",
+        "label": "A. 50 meters"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_047_0002",
+        "label": "B. 100 meters"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_047_0003",
+        "label": "C. 200 meters"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_047_0004",
+        "label": "D. 300 meters"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_047_0002",
+    "correct_answer_label": "B. 100 meters",
+    "explanation": "The maximum allowed length of a Cat 6 cable is 100 meters, or 328 feet. Long distances are typically handled by a fiber run or by using network devices like switches or repeaters—not only because of the distance but also because outdoor runs can experience lightning strikes, which won’t affect fiber. Knowing that copper twisted pair has distance limitations can be important in many network designs and influences where switches and other devices are placed.",
+    "question_key": "tb255078_cissppt4e_pt4_047"
+  },
+  {
+    "id": "4f1f8245-c66e-493b-828e-b22e1b577bc4",
+    "title": "tb255078.CISSPPT4E.pt4.048",
+    "question_text": "Howard is a security analyst working with an experienced computer forensics investigator. The investigator asks him to retrieve a forensic drive controller, but Howard cannot locate a device in the storage room with this name. What is another name for a forensic drive controller?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_048_0001",
+        "label": "A. RAID controller"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_048_0002",
+        "label": "B. Write blocker"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_048_0003",
+        "label": "C. SCSI terminator"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_048_0004",
+        "label": "D. Forensic device analyzer"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_048_0002",
+    "correct_answer_label": "B. Write blocker",
+    "explanation": "One of the main functions of a forensic drive controller is to prevent any command sent to a device from modifying data stored on the device. For this reason, forensic drive controllers are also often referred to as write blockers.",
+    "question_key": "tb255078_cissppt4e_pt4_048"
+  },
+  {
+    "id": "ec896d67-b011-475d-b5d4-0035cddba310",
+    "title": "tb255078.CISSPPT4E.pt4.049",
+    "question_text": "The web application that Saria’s development team is working on needs to provide secure session management that can prevent hijacking of sessions using the cookies that the application relies on. Which of the following techniques would be the best for her to recommend to prevent this?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_049_0001",
+        "label": "A. Set the Secure attribute for the cookies, thus forcing TLS."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_049_0002",
+        "label": "B. Set the Domain cookie attribute to example.com to limit cookie access to servers in the same domain."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_049_0003",
+        "label": "C. Set the Expires cookie attribute to less than a week."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_049_0004",
+        "label": "D. Set the HTTPOnly attribute to require only unencrypted sessions."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_049_0001",
+    "correct_answer_label": "A. Set the Secure attribute for the cookies, thus forcing TLS.",
+    "explanation": "Setting the Secure cookie will allow cookies to be sent only via HTTPS TLS or SSL sessions, preventing man‐in‐the‐middle attacks that target cookies. The rest of the settings are problematic. For example, cookies are vulnerable to DNS spoofing. Domain cookies should usually have the narrowest possible scope, which is actually accomplished by not setting the Domain cookie. This allows only the originating server to access the cookie. Cookies without the Expires or Max‐age attributes are ephemeral and will only be kept for the session, making them less vulnerable than stored cookies. Normally, the HTTPOnly attribute is a good idea, but it prevents scripting rather than requiring unencrypted HTTP sessions.",
+    "question_key": "tb255078_cissppt4e_pt4_049"
+  },
+  {
+    "id": "40473aea-1f4b-4ea4-8415-5689cc90e87d",
+    "title": "tb255078.CISSPPT4E.pt4.050",
+    "question_text": "Ben’s team has been tasked with ensuring that devices that leave his organization do not contain organizational data. They have wiped and re‐formatted drives in systems that are being sent to a third‐party electronics recycler as part of the process, but a journalist recently reported that organization entrusted to Ben’s company was recovered from drives bought from the recycler. What issue is Ben’s team encountering, and what solution should they select to prevent it most effectively?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_050_0001",
+        "label": "A. Data permanence, process certification"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_050_0002",
+        "label": "B. Data remanence, drive destruction"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_050_0003",
+        "label": "C. Data permanence, using a degausser"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_050_0004",
+        "label": "D. Data remanence, zero fill"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_050_0002",
+    "correct_answer_label": "B. Data remanence, drive destruction",
+    "explanation": "Data remanence describes data that is still on media after an attempt has been made to remove it. Destroying the drive is a way to ensure that no data is recoverable. Data permanence describes how long data lasts and is not used in the context of data remaining on devices.",
+    "question_key": "tb255078_cissppt4e_pt4_050"
+  },
+  {
+    "id": "548a2fd1-b7d6-450b-8939-5d5aa9af157a",
+    "title": "tb255078.CISSPPT4E.pt4.051",
+    "question_text": "What access control scheme labels subjects and objects and allows subjects to access objects when the labels match?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_051_0001",
+        "label": "A. DAC"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_051_0002",
+        "label": "B. MAC"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_051_0003",
+        "label": "C. Rule‐based access control (RBAC)"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_051_0004",
+        "label": "D. Role‐based access control (RBAC)"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_051_0002",
+    "correct_answer_label": "B. MAC",
+    "explanation": "Mandatory access control (MAC) applies labels to subjects and objects and allows subjects to access objects when their labels match. Discretionary access control (DAC) is controlled by the owner of objects, rule‐based access control (sometimes called Rule‐BAC) applies rules throughout a system, and role‐based access control (sometimes called Role‐BAC) bases rights on roles, which are often handled as groups of users.",
+    "question_key": "tb255078_cissppt4e_pt4_051"
+  },
+  {
+    "id": "cfdab383-8e64-48c9-8f2e-bd74d126c9d7",
+    "title": "tb255078.CISSPPT4E.pt4.052",
+    "question_text": "A cloud‐based service that provides account provisioning, management, authentication, authorization, reporting, and monitoring capabilities is known as what type of service?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_052_0001",
+        "label": "A. PaaS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_052_0002",
+        "label": "B. IDaaS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_052_0003",
+        "label": "C. IaaS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_052_0004",
+        "label": "D. SaaS"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_052_0002",
+    "correct_answer_label": "B. IDaaS",
+    "explanation": "Identity as a service (IDaaS) provides capabilities such as account provisioning, management, authentication, authorization, reporting, and monitoring. Platform as a service (PaaS), infrastructure as a service (IaaS), and software as a service (SaaS) are cloud service models but do not provide the identity and access management functions described in the question.",
+    "question_key": "tb255078_cissppt4e_pt4_052"
+  },
+  {
+    "id": "43c9eec6-e2af-456f-b867-3efa058d7b2b",
+    "title": "tb255078.CISSPPT4E.pt4.053",
+    "question_text": "Sally wants to secure her organization’s VoIP systems. Which of the following attacks is one that she shouldn’t have to worry about?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_053_0001",
+        "label": "A. Eavesdropping"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_053_0002",
+        "label": "B. Denial‐of‐service"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_053_0003",
+        "label": "C. XSS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_053_0004",
+        "label": "D. Caller ID spoofing"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_053_0003",
+    "correct_answer_label": "C. XSS",
+    "explanation": "Eavesdropping, denial‐of‐service attacks, and caller ID spoofing are all common VoIP attacks. Cross‐site scripting targets web applications, not VoIP systems.",
+    "question_key": "tb255078_cissppt4e_pt4_053"
+  },
+  {
+    "id": "957049df-27b2-4c69-a037-7be993c42422",
+    "title": "tb255078.CISSPPT4E.pt4.054",
+    "question_text": "Marty discovers that the access restrictions in his organization allow any user to log into the workstation assigned to any other user, even if they are from completely different departments. This type of access most directly violates which information security principle?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_054_0001",
+        "label": "A. Separation of duties"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_054_0002",
+        "label": "B. Two‐person control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_054_0003",
+        "label": "C. Need to know"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_054_0004",
+        "label": "D. Least privilege"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_054_0004",
+    "correct_answer_label": "D. Least privilege",
+    "explanation": "This broad access may indirectly violate all of the listed security principles, but it is most directly a violation of least privilege because it grants users privileges that they do not need for their job functions.",
+    "question_key": "tb255078_cissppt4e_pt4_054"
+  },
+  {
+    "id": "44cc3d5e-1372-46c3-a63f-e37ce416d3fd",
+    "title": "tb255078.CISSPPT4E.pt4.055",
+    "question_text": "Fred needs to transfer files between two servers on an untrusted network. Since he knows the network isn’t trusted, he needs to select an encrypted protocol that can ensure that his data remains secure. What protocol should he choose?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_055_0001",
+        "label": "A. SSH"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_055_0002",
+        "label": "B. TCP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_055_0003",
+        "label": "C. SFTP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_055_0004",
+        "label": "D. IPsec"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_055_0003",
+    "correct_answer_label": "C. SFTP",
+    "explanation": "The Secure File Transfer Protocol (SFTP) is specifically designed for encrypted file transfer. SSH is used for secure command‐line access, whereas TCP is one of the bundles of Internet protocols commonly used to transmit data across a network. IPsec could be used to create a tunnel to transfer the data but is not specifically designed for file transfer.",
+    "question_key": "tb255078_cissppt4e_pt4_055"
+  },
+  {
+    "id": "4cbf8877-c057-443e-a8d8-6049baa0d241",
+    "title": "tb255078.CISSPPT4E.pt4.056",
+    "question_text": "Manesh wants to help his organization build secure software. Which of the following is not a common security best practice for working with security frameworks and libraries?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_056_0001",
+        "label": "A. Use internally developed libraries and frameworks whenever possible to reduce third‐party threats."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_056_0002",
+        "label": "B. Identify and inventory all third‐party libraries."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_056_0003",
+        "label": "C. Encapsulate libraries to prevent the use of functions that are not needed."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_056_0004",
+        "label": "D. Update libraries and components on a regular basis."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_056_0001",
+    "correct_answer_label": "A. Use internally developed libraries and frameworks whenever possible to reduce third‐party threats.",
+    "explanation": "OWASP recommends four critical best practices for libraries and frameworks: using libraries and frameworks from trusted sources that are broadly used and well maintained, maintaining an inventory of third‐party libraries, updating libraries and components proactively, and reducing attack surface by limiting what functions can be used. Building your own frameworks and libraries is more likely to result in vulnerabilities for most organizations than using well‐maintained and supported existing options.",
+    "question_key": "tb255078_cissppt4e_pt4_056"
+  },
+  {
+    "id": "b179dae3-a0cd-400a-b792-c51cf8af07c2",
+    "title": "tb255078.CISSPPT4E.pt4.057",
+    "question_text": "Use your knowledge of Kerberos authentication and authorization as well as the following diagram to answer the question.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_057_0001",
+        "label": "A. It resends the password."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_057_0002",
+        "label": "B. A TGR."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_057_0003",
+        "label": "C. Its TGT."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_057_0004",
+        "label": "D. A service ticket."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_057_0003",
+    "correct_answer_label": "C. Its TGT.",
+    "explanation": "The client sends its existing valid TGT to the KDC and requests access to the resource.",
+    "question_key": "tb255078_cissppt4e_pt4_057"
+  },
+  {
+    "id": "fb7f5f55-a180-455e-ba7f-86bfdb114910",
+    "title": "tb255078.CISSPPT4E.pt4.058",
+    "question_text": "Use your knowledge of Kerberos authentication and authorization as well as the following diagram to answer the question.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_058_0001",
+        "label": "A. The KDC verifies the validity of the TGT and whether the user has the right privileges for the requested resource."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_058_0002",
+        "label": "B. The KDC updates its access control list based on the data in the TGT."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_058_0003",
+        "label": "C. The KDC checks its service listing and prepares an updated TGT based on the service request."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_058_0004",
+        "label": "D. The KDC generates a service ticket to issue to the client."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_058_0001",
+    "correct_answer_label": "A. The KDC verifies the validity of the TGT and whether the user has the right privileges for the requested resource.",
+    "explanation": "The KDC must verify that the TGT is valid and whether the user has the right privileges to access the service it is requesting access to. If it does, it generates a service ticket and sends it to the client (step B).",
+    "question_key": "tb255078_cissppt4e_pt4_058"
+  },
+  {
+    "id": "4e597684-c983-4b0f-adc5-6be5338b3b41",
+    "title": "tb255078.CISSPPT4E.pt4.059",
+    "question_text": "Use your knowledge of Kerberos authentication and authorization as well as the following diagram to answer the question.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_059_0001",
+        "label": "A. The KDC."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_059_0002",
+        "label": "B. The client workstation and the KDC."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_059_0003",
+        "label": "C. The client workstation supplies it in the form of a client‐to‐server ticket and an authenticator."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_059_0004",
+        "label": "D. The KVS."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_059_0003",
+    "correct_answer_label": "C. The client workstation supplies it in the form of a client‐to‐server ticket and an authenticator.",
+    "explanation": "When a client connects to a service server (SS), it sends the following two messages: The client‐to‐server ticket, encrypted using the service’s secret key A new authenticator, including the client ID and timestamp that is encrypted using the client‐server session key The server or service that is being accessed receives all of the data it needs in the service ticket. To do so, the client uses a client‐to‐server ticket received from the ticket granting service.",
+    "question_key": "tb255078_cissppt4e_pt4_059"
+  },
+  {
+    "id": "2d7b410e-94b4-49e7-ae36-ed00e9ad5a5e",
+    "title": "tb255078.CISSPPT4E.pt4.060",
+    "question_text": "What does a service ticket (ST) provide in Kerberos authentication?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_060_0001",
+        "label": "A. It serves as the authentication host."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_060_0002",
+        "label": "B. It provides proof that the subject is authorized to access an object."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_060_0003",
+        "label": "C. It provides proof that a subject has authenticated through a KDC and can request tickets to access other objects."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_060_0004",
+        "label": "D. It provides ticket granting services."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_060_0002",
+    "correct_answer_label": "B. It provides proof that the subject is authorized to access an object.",
+    "explanation": "The service ticket in Kerberos authentication provides proof that a subject is authorized to access an object. Ticket granting services are provided by the TGS. Proof that a subject has authenticated and can request tickets to other objects and uses ticket‐granting tickets, and authentication host is a made‐up term.",
+    "question_key": "tb255078_cissppt4e_pt4_060"
+  },
+  {
+    "id": "52bf334c-581c-4e9d-8caf-1e3de1deb0bf",
+    "title": "tb255078.CISSPPT4E.pt4.061",
+    "question_text": "Judy is preparing to conduct a business impact analysis. What should her first step be in the process?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_061_0001",
+        "label": "A. Identify threats to the business."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_061_0002",
+        "label": "B. Identify risks to the organization."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_061_0003",
+        "label": "C. Identify business priorities."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_061_0004",
+        "label": "D. Conduct likelihood analysis."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_061_0003",
+    "correct_answer_label": "C. Identify business priorities.",
+    "explanation": "The first step in a business impact analysis is to identify the business’s priorities. Judy should ensure that business areas are all represented and that the functions of each department or area are assessed. Once that is done, she can move on to identifying risks, evaluating likelihood and impact, and then prioritizing the resources available to the business to address the identified priorities.",
+    "question_key": "tb255078_cissppt4e_pt4_061"
+  },
+  {
+    "id": "7f626b4a-65f0-4304-80db-1b39bc2760c4",
+    "title": "tb255078.CISSPPT4E.pt4.062",
+    "question_text": "What is the most common risk that cellular phone hotspots create for business networks?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_062_0001",
+        "label": "A. They can provide attackers with an unsecured network path into your network."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_062_0002",
+        "label": "B. They can be used like rogue access points for man‐in‐the‐middle attacks."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_062_0003",
+        "label": "C. They allow wireless data to be intercepted."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_062_0004",
+        "label": "D. They are unencrypted and can be easily sniffed."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_062_0001",
+    "correct_answer_label": "A. They can provide attackers with an unsecured network path into your network.",
+    "explanation": "Organizations are most often concerned about hotspots creating an unsecured network connection into their secure network via laptops or other devices that are connected to them. Bridging a cellular connection to a network connection to the business’s network creates a path that bypasses security controls. Hotspots could be used as rogue access points, but this is a less common scenario. They do not specifically allow wireless data to be intercepted and, in most modern implementations, are encrypted, thus limiting the likelihood of sniffing providing useful data.",
+    "question_key": "tb255078_cissppt4e_pt4_062"
+  },
+  {
+    "id": "971f49b8-8751-4742-8b84-e1f814982af8",
+    "title": "tb255078.CISSPPT4E.pt4.063",
+    "question_text": "Which one of the following fire suppression systems poses the greatest risk of accidental discharge that damages equipment in a data center?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_063_0001",
+        "label": "A. Wet pipe"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_063_0002",
+        "label": "B. Dry pipe"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_063_0003",
+        "label": "C. Deluge"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_063_0004",
+        "label": "D. Preaction"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_063_0001",
+    "correct_answer_label": "A. Wet pipe",
+    "explanation": "Dry pipe, deluge, and preaction systems all use pipes that remain empty until the system detects signs of a fire. Wet pipe systems use pipes filled with water that may damage equipment if there is damage to a pipe.",
+    "question_key": "tb255078_cissppt4e_pt4_063"
+  },
+  {
+    "id": "198be974-9fb9-46a7-a7ab-de2c0ec73e67",
+    "title": "tb255078.CISSPPT4E.pt4.064",
+    "question_text": "Amanda’s healthcare provider maintains such data as details about her health, treatments, and medical billing. What type of data is this?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_064_0001",
+        "label": "A. Protected health information"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_064_0002",
+        "label": "B. Personally identifiable information"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_064_0003",
+        "label": "C. Protected health insurance"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_064_0004",
+        "label": "D. Individual protected data"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_064_0001",
+    "correct_answer_label": "A. Protected health information",
+    "explanation": "Protected health information (PHI) is defined by HIPAA to include health information used by healthcare providers, such as medical treatment, history, and billing. Personally identifiable information (PII) is information that can be used to identify an individual, which may be included in the PHI but isn’t specifically this type of data. Protected health insurance and individual protected data are both made‐up terms.",
+    "question_key": "tb255078_cissppt4e_pt4_064"
+  },
+  {
+    "id": "24ba6220-07f1-427e-a68b-922dea8c2082",
+    "title": "tb255078.CISSPPT4E.pt4.065",
+    "question_text": "What type of code review is best suited for identifying business logic flaws?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_065_0001",
+        "label": "A. Mutation fuzzing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_065_0002",
+        "label": "B. Manual testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_065_0003",
+        "label": "C. Generational fuzzing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_065_0004",
+        "label": "D. Interface testing"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_065_0002",
+    "correct_answer_label": "B. Manual testing",
+    "explanation": "Manual testing uses human understanding of business logic to assess program flow and responses. Mutation or generational fuzzing will help determine how the program responds to expected inputs but does not test the business logic. Interface testing ensures that data exchange between modules works properly but does not focus on the logic of the program or application.",
+    "question_key": "tb255078_cissppt4e_pt4_065"
+  },
+  {
+    "id": "44225b83-2e80-42da-a671-b987e7706a43",
+    "title": "tb255078.CISSPPT4E.pt4.066",
+    "question_text": "Something you know is an example of what type of authentication factor?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_066_0001",
+        "label": "A. Type 1"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_066_0002",
+        "label": "B. Type 2"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_066_0003",
+        "label": "C. Type 3"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_066_0004",
+        "label": "D. Type 4"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_066_0001",
+    "correct_answer_label": "A. Type 1",
+    "explanation": "A Type 1 authentication factor is something you know. A Type 2 authentication factor is something you have, like a smartcard or hardware token. A Type 3 authentication factor is something you are, like a biometric identifier. There is no such thing as a Type 4 authentication factor.",
+    "question_key": "tb255078_cissppt4e_pt4_066"
+  },
+  {
+    "id": "2ab1dc08-0db5-404a-aa9c-f860dad42a4d",
+    "title": "tb255078.CISSPPT4E.pt4.067",
+    "question_text": "Saria is the system owner for a healthcare organization. What responsibilities does she have related to the data that resides on or is processed by the systems she owns?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_067_0001",
+        "label": "A. She has to classify the data."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_067_0002",
+        "label": "B. She has to make sure that appropriate security controls are in place to protect the data."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_067_0003",
+        "label": "C. She has to grant appropriate access to personnel."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_067_0004",
+        "label": "D. She bears sole responsibility for ensuring that data is protected at rest, in transit, and in use."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_067_0002",
+    "correct_answer_label": "B. She has to make sure that appropriate security controls are in place to protect the data.",
+    "explanation": "System owners develop and maintain system security plans with system administrators, and they have to ensure that appropriate security controls are in place on those systems. System owners also share responsibility for data protection with data owners. System administrators grant appropriate access and apply the controls, whereas data owners own the classification process.",
+    "question_key": "tb255078_cissppt4e_pt4_067"
+  },
+  {
+    "id": "f18ed9dd-3d9b-49d0-b045-42ea00857398",
+    "title": "tb255078.CISSPPT4E.pt4.068",
+    "question_text": "During software testing, Jack diagrams how a hacker might approach the application he is reviewing and determines what requirements the hacker might have. He then tests how the system would respond to the attacker’s likely behavior. What type of testing is Jack conducting?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_068_0001",
+        "label": "A. Misuse case testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_068_0002",
+        "label": "B. Use‐case testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_068_0003",
+        "label": "C. Hacker use‐case testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_068_0004",
+        "label": "D. Static code analysis"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_068_0001",
+    "correct_answer_label": "A. Misuse case testing",
+    "explanation": "Jack is performing misuse case analysis, a process that tests code based on how it would perform if it were misused instead of used properly. Use‐case testing tests valid use cases, whereas static code analysis involves reviewing the code itself for flaws rather than testing the live software. Hacker use case testing isn’t an industry term for a type of testing.",
+    "question_key": "tb255078_cissppt4e_pt4_068"
+  },
+  {
+    "id": "56b47c4c-0501-4bab-9a1c-c82cd58ecb62",
+    "title": "tb255078.CISSPPT4E.pt4.069",
+    "question_text": "Rick’s risk assessment for his company’s web application noted that it could suffer from SQL injection attacks. Which of the following mitigation techniques would you recommend Rick apply to help reduce this risk? (Select all that apply.)",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_069_0001",
+        "label": "A. Stored procedures"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_069_0002",
+        "label": "B. Escaping all user‐supplied input"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_069_0003",
+        "label": "C. Parameterized queries"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_069_0004",
+        "label": "D. Input validation"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_069_0001",
+    "correct_answer_label": "A. Stored procedures",
+    "explanation": "All of these options are useful to help prevent SQL injection. Stored procedures limit what can be done via the database server, and escaping user input makes dangerous characters less likely to be a problem. Parameterized queries limit what can be sent in a query, and input validation adds another layer of protection by limiting what can be successfully input by a user.",
+    "question_key": "tb255078_cissppt4e_pt4_069"
+  },
+  {
+    "id": "5ced0223-deb7-41ce-9b43-5de5d0d31f1f",
+    "title": "tb255078.CISSPPT4E.pt4.070",
+    "question_text": "Chris has been assigned to scan a system on all of its possible TCP and UDP ports. How many ports of each type must he scan to complete his assignment?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_070_0001",
+        "label": "A. 65,536 TCP ports and 32,768 UDP ports"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_070_0002",
+        "label": "B. 1,024 common TCP ports and 32,768 ephemeral UDP ports"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_070_0003",
+        "label": "C. 65,536 TCP and 65,536 UDP ports"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_070_0004",
+        "label": "D. 16,384 TCP ports, and 16,384 UDP ports"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_070_0003",
+    "correct_answer_label": "C. 65,536 TCP and 65,536 UDP ports",
+    "explanation": "Both TCP and UDP port numbers are a 16‐digit binary number, which means there can be 216 ports, or 65,536 ports, numbered from 0 to 65,535.",
+    "question_key": "tb255078_cissppt4e_pt4_070"
+  },
+  {
+    "id": "c1c6ab62-6ebf-487e-acd8-26f789ba5075",
+    "title": "tb255078.CISSPPT4E.pt4.071",
+    "question_text": "CVE and the NVD both provide information about what?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_071_0001",
+        "label": "A. Vulnerabilities"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_071_0002",
+        "label": "B. Markup languages"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_071_0003",
+        "label": "C. Vulnerability assessment tools"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_071_0004",
+        "label": "D. Penetration testing methodologies"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_071_0001",
+    "correct_answer_label": "A. Vulnerabilities",
+    "explanation": "MITRE’s Common Vulnerabilities and Exploits (CVE) dictionary and NIST’s National Vulnerability Database (NVD) both provide information about vulnerabilities.",
+    "question_key": "tb255078_cissppt4e_pt4_071"
+  },
+  {
+    "id": "c2983795-3d61-42d7-8fad-312acbd29b48",
+    "title": "tb255078.CISSPPT4E.pt4.072",
+    "question_text": "Michelle wants to ensure that her company does not keep logs for longer than they need to. What type of policy should she write and implement to ensure this?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_072_0001",
+        "label": "A. An EOL policy"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_072_0002",
+        "label": "B. A data classification policy"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_072_0003",
+        "label": "C. An EOS policy"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_072_0004",
+        "label": "D. A record retention policy"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_072_0004",
+    "correct_answer_label": "D. A record retention policy",
+    "explanation": "Record retention policies are used to establish what data organizations retain and how long they will retain it for. Keeping data longer than necessary can increase risk to the organization, but having data when needed for investigations, legal compliance, or other business purposes is also important. EOL, or end of life, and EOS, or end of support, apply to hardware or software and not to data. Data classification policies are used to help classify data, which may influence how long it is retained, but classification policies themselves typically do not set retention timeframes.",
+    "question_key": "tb255078_cissppt4e_pt4_072"
+  },
+  {
+    "id": "a86e5ebb-9bb8-49bb-9a51-af41b5e16d8c",
+    "title": "tb255078.CISSPPT4E.pt4.073",
+    "question_text": "Beth’s company uses cloud‐based infrastructure that uses a combination of policies and automated security controls to ensure security. The company deploys firewalls, endpoint security tools, and management capabilities to ensure that every virtual system is protected as it is brought online. What term describes this type of implementation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_073_0001",
+        "label": "A. Root of trust"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_073_0002",
+        "label": "B. Software‐defined security"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_073_0003",
+        "label": "C. A policy engine"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_073_0004",
+        "label": "D. Software‐defined networks"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_073_0002",
+    "correct_answer_label": "B. Software‐defined security",
+    "explanation": "Software‐defined security (SDS) is an increasingly common approach to security that involves using software solutions and policies to secure environments, rather than traditional hardware‐based approaches. This strategy allows for flexible and dynamic security configurations, particularly suited to the cloud’s scalable nature. While a root of trust provides a foundational security element in cryptographic systems, policy engines contribute to decision‐making in SDS and other frameworks by enforcing security policies. Software‐defined networks focus on network management through software, showcasing the broader move toward software‐defined approaches in IT infrastructure.",
+    "question_key": "tb255078_cissppt4e_pt4_073"
+  },
+  {
+    "id": "e7913a29-6893-40fa-87c9-2a8b4d588ff9",
+    "title": "tb255078.CISSPPT4E.pt4.074",
+    "question_text": "What three important items should be considered if you are attempting to control the strength of signal for a wireless network as well as where it is accessible?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_074_0001",
+        "label": "A. Antenna placement, antenna type, antenna power levels"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_074_0002",
+        "label": "B. Antenna design, power levels, use of a captive portal"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_074_0003",
+        "label": "C. Antenna placement, antenna design, use of a captive portal"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_074_0004",
+        "label": "D. Power levels, antenna placement, FCC minimum strength requirements"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_074_0001",
+    "correct_answer_label": "A. Antenna placement, antenna type, antenna power levels",
+    "explanation": "Antenna placement, antenna design, and power levels are the three important factors in determining where a signal can be accessed and how usable it is. A captive portal can be used to control user logins, and antenna design is part of antenna types. The FCC does provide maximum broadcast power guidelines but does not require a minimum power level.",
+    "question_key": "tb255078_cissppt4e_pt4_074"
+  },
+  {
+    "id": "be0a443c-aff5-4b5b-b642-e78e379a7c38",
+    "title": "tb255078.CISSPPT4E.pt4.075",
+    "question_text": "What is the best way to ensure that data is unrecoverable from an SSD?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_075_0001",
+        "label": "A. Use the built‐in erase commands."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_075_0002",
+        "label": "B. Use a random pattern wipe of 1s and 0s."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_075_0003",
+        "label": "C. Physically destroy the drive."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_075_0004",
+        "label": "D. Degauss the drive."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_075_0003",
+    "correct_answer_label": "C. Physically destroy the drive.",
+    "explanation": "Physically destroying the drive is the best way to ensure that there is no remnant data on the drive. SSDs are flash media, which means that you can’t degauss them, whereas both random pattern writes and the built‐in erase commands have been shown to be problematic due to the wear leveling built into SSDs as well as differences in how they handle erase commands.",
+    "question_key": "tb255078_cissppt4e_pt4_075"
+  },
+  {
+    "id": "166da796-7dcb-4b17-adf1-ae926e73501a",
+    "title": "tb255078.CISSPPT4E.pt4.076",
+    "question_text": "Alice sends a message to Bob and wants to ensure that Mal, a third party, does not read the contents of the message while in transit. What goal of cryptography is Alice attempting to achieve?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_076_0001",
+        "label": "A. Confidentiality"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_076_0002",
+        "label": "B. Integrity"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_076_0003",
+        "label": "C. Authentication"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_076_0004",
+        "label": "D. Nonrepudiation"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_076_0001",
+    "correct_answer_label": "A. Confidentiality",
+    "explanation": "Confidentiality ensures that data cannot be read by unauthorized individuals while stored or in transit.",
+    "question_key": "tb255078_cissppt4e_pt4_076"
+  },
+  {
+    "id": "f373375b-1ffc-4071-8b54-15a3d6c083ee",
+    "title": "tb255078.CISSPPT4E.pt4.077",
+    "question_text": "Ian wants to ensure that his organization is using appropriate secure coding techniques. Which of the following is not a common practice for input validation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_077_0001",
+        "label": "A. Conduct data validation on a trusted system."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_077_0002",
+        "label": "B. Validate data length."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_077_0003",
+        "label": "C. Validate all client‐provided data before it is processed."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_077_0004",
+        "label": "D. Convert all data to the same data type."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_077_0004",
+    "correct_answer_label": "D. Convert all data to the same data type.",
+    "explanation": "OWASP’s secure coding practices checklist provides a wide variety of input validation recommendations, including conducting data validation on trusted systems, validating data length, range, and types, and validating all client‐provided data before it is processed. Converting all data to the same data type isn’t possible because multiple data types are needed for most programs and applications.",
+    "question_key": "tb255078_cissppt4e_pt4_077"
+  },
+  {
+    "id": "8bdf17d0-3c89-4b34-8c43-82b7334d5005",
+    "title": "tb255078.CISSPPT4E.pt4.078",
+    "question_text": "The company that Gary works for processes credit cards and operates under an industry standard for credit card handling. Which of the following standards will his company need to comply with?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_078_0001",
+        "label": "A. ISO27001"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_078_0002",
+        "label": "B. FIPS 140"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_078_0003",
+        "label": "C. PCI‐DSS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_078_0004",
+        "label": "D. ISO 27002"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_078_0003",
+    "correct_answer_label": "C. PCI‐DSS",
+    "explanation": "PCI‐DSS, or the Payment Card Industry Data Security Standard, is the industry standard Gary’s company will need to comply with. ISO27001 and 27002 are information security management standards. FIPS 140 is a standard for cryptographic modules.",
+    "question_key": "tb255078_cissppt4e_pt4_078"
+  },
+  {
+    "id": "474d625b-462a-47b7-a4bf-0027875d35cb",
+    "title": "tb255078.CISSPPT4E.pt4.079",
+    "question_text": "James has opted to implement a NAC solution that uses a post‐admission philosophy for its control of network connectivity. What type of issues can’t a strictly post‐admission policy handle?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_079_0001",
+        "label": "A. Out‐of‐band monitoring"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_079_0002",
+        "label": "B. Preventing an unpatched laptop from being exploited immediately after connecting to the network"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_079_0003",
+        "label": "C. Denying access when user behavior doesn’t match an authorization matrix"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_079_0004",
+        "label": "D. Allowing a user access to a specific object when user behavior is allowed based on an authorization matrix"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_079_0002",
+    "correct_answer_label": "B. Preventing an unpatched laptop from being exploited immediately after connecting to the network",
+    "explanation": "A post‐admission philosophy allows or denies access based on user activity after connection based on a predefined authorization matrix. Since this doesn’t check the status of a machine before it connects, it can’t prevent the exploit of the system immediately after connection. This doesn’t preclude out‐of‐band or in‐band monitoring, but it does mean that a strictly post‐admission policy won’t handle system checks before the systems are admitted to the network.",
+    "question_key": "tb255078_cissppt4e_pt4_079"
+  },
+  {
+    "id": "9a307e50-9776-4e1c-b8dc-e2f28c5cf83c",
+    "title": "tb255078.CISSPPT4E.pt4.080",
+    "question_text": "Ben has built an access control list that lists the objects that his users are allowed to access. When users attempt to access an object that they don’t have rights to, they are denied access, even though there isn’t a specific rule that prevents it. What access control principle is key to this behavior?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_080_0001",
+        "label": "A. Least privilege"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_080_0002",
+        "label": "B. Implicit deny"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_080_0003",
+        "label": "C. Explicit deny"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_080_0004",
+        "label": "D. Final rule fall‐through"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_080_0002",
+    "correct_answer_label": "B. Implicit deny",
+    "explanation": "The implicit deny principle states that any action that is not explicitly allowed is denied. This is an important concept for firewall rules and other access control systems. Implementing least privilege ensures that subjects have only the rights they need to accomplish their job. While explicit deny and final rule fall‐through may sound like important access control concepts, neither is.",
+    "question_key": "tb255078_cissppt4e_pt4_080"
+  },
+  {
+    "id": "21e0e017-352f-445f-b731-e36e4b2efe0a",
+    "title": "tb255078.CISSPPT4E.pt4.081",
+    "question_text": "Mary is a security risk analyst for an insurance company. She is currently examining a scenario where a hacker might be able to modify the contents of directories on the web server due to a missing patch in the company’s web application. In this scenario, what is the risk?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_081_0001",
+        "label": "A. Unpatched web application"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_081_0002",
+        "label": "B. Web defacement"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_081_0003",
+        "label": "C. Hacker"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_081_0004",
+        "label": "D. Operating system"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_081_0002",
+    "correct_answer_label": "B. Web defacement",
+    "explanation": "Risks are the combination of a threat and a vulnerability. Threats are the external forces seeking to undermine security, such as the hacker in this case. Vulnerabilities are the internal weaknesses that might allow a threat to succeed. In this case, web defacement is the risk. In this scenario, if the hacker attempts a SQL injection attack (threat) against the unpatched server (vulnerability), the result is website defacement (risk).",
+    "question_key": "tb255078_cissppt4e_pt4_081"
+  },
+  {
+    "id": "1d233f78-6dd1-4d63-b768-e34dbd7f2995",
+    "title": "tb255078.CISSPPT4E.pt4.082",
+    "question_text": "The mean time to detect a compromise is what type of security measurement?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_082_0001",
+        "label": "A. An MTO"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_082_0002",
+        "label": "B. A technical control objective"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_082_0003",
+        "label": "C. A compliance objective"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_082_0004",
+        "label": "D. A KPI"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_082_0004",
+    "correct_answer_label": "D. A KPI",
+    "explanation": "The mean time to detect a compromise is a security KPI, or key performance indicator. KPIs are used to determine how effective practices, procedures, and staff are.",
+    "question_key": "tb255078_cissppt4e_pt4_082"
+  },
+  {
+    "id": "3ba37130-47a3-4fbc-8a5a-e8cd6712460b",
+    "title": "tb255078.CISSPPT4E.pt4.083",
+    "question_text": "Val is testing her organization’s software using a tool that simulates an attacker’s actions against it. What type of testing is Val conducting?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_083_0001",
+        "label": "A. SAST"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_083_0002",
+        "label": "B. LAST"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_083_0003",
+        "label": "C. DAST"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_083_0004",
+        "label": "D. FAST"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_083_0003",
+    "correct_answer_label": "C. DAST",
+    "explanation": "Val is conducting dynamic application security testing, or DAST. DAST simulates an attacker’s actions against software to test it. SAST reviews source code to identify vulnerabilities. FAST and LAST are not software testing methodologies or tools.",
+    "question_key": "tb255078_cissppt4e_pt4_083"
+  },
+  {
+    "id": "59e370da-36b4-41c2-aa00-7dd2b51a8f6e",
+    "title": "tb255078.CISSPPT4E.pt4.084",
+    "question_text": "In Jen’s job as the network administrator for an industrial production facility, she is tasked with ensuring that the network is not susceptible to electromagnetic interference due to the large motors and other devices running on the production floor. What type of network cabling should she choose if this concern is more important than the cost and difficulty of installation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_084_0001",
+        "label": "A. 10Base2"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_084_0002",
+        "label": "B. 100BaseT"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_084_0003",
+        "label": "C. 1000BaseT"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_084_0004",
+        "label": "D. Fiber optic"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_084_0004",
+    "correct_answer_label": "D. Fiber optic",
+    "explanation": "Fiber‐optic cable is more expensive and can be harder to install than stranded copper cable or coaxial cable in some cases, but it isn’t susceptible to electromagnetic interference (EMI). That makes it a great solution for Jen’s problem, especially if she is deploying EMI‐hardened systems to go with her EMI‐resistant network cables.",
+    "question_key": "tb255078_cissppt4e_pt4_084"
+  },
+  {
+    "id": "6eed9beb-91d1-4697-840c-e2008de63418",
+    "title": "tb255078.CISSPPT4E.pt4.085",
+    "question_text": "Please refer to the following scenario: Jasper Diamonds is a jewelry manufacturer that markets and sells custom jewelry through its website. Bethany is the manager of Jasper’s software development organization, and she is working to bring the company into line with industry‐standard practices. She is developing a new change management process for the organization and wants to follow commonly accepted approaches.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_085_0001",
+        "label": "A. Configuration control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_085_0002",
+        "label": "B. Change control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_085_0003",
+        "label": "C. Release control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_085_0004",
+        "label": "D. Request control"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_085_0004",
+    "correct_answer_label": "D. Request control",
+    "explanation": "The request control process provides an organized framework within which users can request modifications, managers can conduct cost/benefit analyses, and developers can prioritize tasks.",
+    "question_key": "tb255078_cissppt4e_pt4_085"
+  },
+  {
+    "id": "369e476b-2c87-40ac-baa1-76edc60bcbb4",
+    "title": "tb255078.CISSPPT4E.pt4.086",
+    "question_text": "Please refer to the following scenario: Jasper Diamonds is a jewelry manufacturer that markets and sells custom jewelry through its website. Bethany is the manager of Jasper’s software development organization, and she is working to bring the company into line with industry‐standard practices. She is developing a new change management process for the organization and wants to follow commonly accepted approaches.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_086_0001",
+        "label": "A. Configuration control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_086_0002",
+        "label": "B. Change control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_086_0003",
+        "label": "C. Release control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_086_0004",
+        "label": "D. Request control"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_086_0002",
+    "correct_answer_label": "B. Change control",
+    "explanation": "Change control provides an organized framework within which multiple developers can create and test solutions prior to rolling them out into a production environment.",
+    "question_key": "tb255078_cissppt4e_pt4_086"
+  },
+  {
+    "id": "eb12aabd-4855-4075-bdc2-c65bffd9de31",
+    "title": "tb255078.CISSPPT4E.pt4.087",
+    "question_text": "Please refer to the following scenario: Jasper Diamonds is a jewelry manufacturer that markets and sells custom jewelry through its website. Bethany is the manager of Jasper’s software development organization, and she is working to bring the company into line with industry‐standard practices. She is developing a new change management process for the organization and wants to follow commonly accepted approaches.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_087_0001",
+        "label": "A. Configuration control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_087_0002",
+        "label": "B. Change control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_087_0003",
+        "label": "C. Release control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_087_0004",
+        "label": "D. Request control"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_087_0003",
+    "correct_answer_label": "C. Release control",
+    "explanation": "Release control includes acceptance testing to ensure that any alterations to end‐user work tasks are understood and functional.",
+    "question_key": "tb255078_cissppt4e_pt4_087"
+  },
+  {
+    "id": "cbb8fa58-2812-4459-89ce-3f3abac299b4",
+    "title": "tb255078.CISSPPT4E.pt4.088",
+    "question_text": "Please refer to the following scenario: Jasper Diamonds is a jewelry manufacturer that markets and sells custom jewelry through its website. Bethany is the manager of Jasper’s software development organization, and she is working to bring the company into line with industry‐standard practices. She is developing a new change management process for the organization and wants to follow commonly accepted approaches.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_088_0001",
+        "label": "A. Configuration control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_088_0002",
+        "label": "B. Change control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_088_0003",
+        "label": "C. Release control"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_088_0004",
+        "label": "D. Request control"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_088_0001",
+    "correct_answer_label": "A. Configuration control",
+    "explanation": "Configuration control ensures that changes to software versions are made in accordance with the change control and configuration management process. Updates can be made only from authorized distributions in accordance with those policies.",
+    "question_key": "tb255078_cissppt4e_pt4_088"
+  },
+  {
+    "id": "65833170-7654-4724-b494-65f778b6d94d",
+    "title": "tb255078.CISSPPT4E.pt4.089",
+    "question_text": "Asha’s team wants to ensure that all of the functions of their software are tested. What are they ensuring?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_089_0001",
+        "label": "A. Proper misuse case testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_089_0002",
+        "label": "B. That a breach attack simulation is conducted"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_089_0003",
+        "label": "C. Complete interface testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_089_0004",
+        "label": "D. Complete coverage"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_089_0004",
+    "correct_answer_label": "D. Complete coverage",
+    "explanation": "Coverage analysis is performed to ensure that functionality, requirements, or other elements are completely tested. No misuse cases are described in the question, no interfaces are described, and breach attack simulations are intended to act like an attacker, rather than test for all functions.",
+    "question_key": "tb255078_cissppt4e_pt4_089"
+  },
+  {
+    "id": "b3d25e47-4514-4a3f-9b02-fd640cb65140",
+    "title": "tb255078.CISSPPT4E.pt4.090",
+    "question_text": "Which one of the following is an example of risk transference?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_090_0001",
+        "label": "A. Building a guard shack"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_090_0002",
+        "label": "B. Purchasing insurance"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_090_0003",
+        "label": "C. Erecting fences"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_090_0004",
+        "label": "D. Relocating facilities"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_090_0002",
+    "correct_answer_label": "B. Purchasing insurance",
+    "explanation": "Risk transference involves actions that shift risk from one party to another. Purchasing insurance is an example of risk transference because it moves risk from the insured to the insurance company.",
+    "question_key": "tb255078_cissppt4e_pt4_090"
+  },
+  {
+    "id": "6b9b415f-0662-4a8d-9ee8-3d8a96d3403c",
+    "title": "tb255078.CISSPPT4E.pt4.091",
+    "question_text": "What protocol takes the place of certificate revocation lists and adds real‐time status verification?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_091_0001",
+        "label": "A. RTCP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_091_0002",
+        "label": "B. RTVP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_091_0003",
+        "label": "C. OCSP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_091_0004",
+        "label": "D. CSRTP"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_091_0003",
+    "correct_answer_label": "C. OCSP",
+    "explanation": "The Online Certificate Status Protocol (OCSP) eliminates the latency inherent in the use of certificate revocation lists by providing a means for real‐time certificate verification.",
+    "question_key": "tb255078_cissppt4e_pt4_091"
+  },
+  {
+    "id": "d50e1ff0-05c1-45d7-8640-0ed51cc3393f",
+    "title": "tb255078.CISSPPT4E.pt4.092",
+    "question_text": "Xavier’s company has been using an increasing number of cloud services, and he is concerned that the security policies that the company has implemented in its existing data center are not being followed in the cloud. Which of the following solutions is best suited to ensuring that policies are applied to all cloud services?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_092_0001",
+        "label": "A. A CIPS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_092_0002",
+        "label": "B. A CASB"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_092_0003",
+        "label": "C. A CSG"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_092_0004",
+        "label": "D. A CDLP"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_092_0002",
+    "correct_answer_label": "B. A CASB",
+    "explanation": "A cloud access security broker (CASB) is a tool that sits between on‐premises and cloud systems, monitoring traffic and enforcing security policies. This scenario exactly matches what a CASB is designed to do. The other answers were made up; none of these is an actual cloud security device or tool (at least as of the writing of this book!).",
+    "question_key": "tb255078_cissppt4e_pt4_092"
+  },
+  {
+    "id": "3bcdde49-85c4-481d-a030-f541bfa4420a",
+    "title": "tb255078.CISSPPT4E.pt4.093",
+    "question_text": "What process makes TCP a connection‐oriented protocol?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_093_0001",
+        "label": "A. It works via network connections."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_093_0002",
+        "label": "B. It uses a handshake."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_093_0003",
+        "label": "C. It monitors for dropped connections."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_093_0004",
+        "label": "D. It uses a complex header."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_093_0002",
+    "correct_answer_label": "B. It uses a handshake.",
+    "explanation": "TCP’s use of a handshake process to establish communications makes it a connection‐oriented protocol. TCP does not monitor for dropped connections, nor does the fact that it works via network connections make it connection‐oriented.",
+    "question_key": "tb255078_cissppt4e_pt4_093"
+  },
+  {
+    "id": "52cc776c-3de7-448d-8909-afafdc0b90be",
+    "title": "tb255078.CISSPPT4E.pt4.094",
+    "question_text": "Susan wants to build a security awareness program for her organization but knows that keeping staff engaged is difficult. Which of the following techniques is often associated with the use of points and scores as part of the assessment process?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_094_0001",
+        "label": "A. Gamification"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_094_0002",
+        "label": "B. Phishing testing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_094_0003",
+        "label": "C. Security champions"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_094_0004",
+        "label": "D. Social engineering evaluations"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_094_0001",
+    "correct_answer_label": "A. Gamification",
+    "explanation": "Gamification uses common components from games like points, scores, and competition to engage participants in a security awareness program. None of the other answers uses these together unless they use a gamification component.",
+    "question_key": "tb255078_cissppt4e_pt4_094"
+  },
+  {
+    "id": "14a24938-5ca3-4ff4-8e03-70dd50080faa",
+    "title": "tb255078.CISSPPT4E.pt4.095",
+    "question_text": "You are conducting a qualitative risk assessment for your organization. The two important risk elements that should weigh most heavily in your analysis of risk are probability and ________________.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_095_0001",
+        "label": "A. Likelihood"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_095_0002",
+        "label": "B. History"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_095_0003",
+        "label": "C. Impact"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_095_0004",
+        "label": "D. Cost"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_095_0003",
+    "correct_answer_label": "C. Impact",
+    "explanation": "The two most important elements of a qualitative risk assessment are determining the probability and impact of each risk upon the organization. Likelihood is another word for probability. Cost should be taken into account but is only one element of impact, which also includes reputational damage, operational disruption, and other ill effects.",
+    "question_key": "tb255078_cissppt4e_pt4_095"
+  },
+  {
+    "id": "96e98277-c876-48b3-905b-dbdcae67abde",
+    "title": "tb255078.CISSPPT4E.pt4.096",
+    "question_text": "Using the OSI model, what format does the Data Link layer use to format messages received from higher up the stack?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_096_0001",
+        "label": "A. A data stream"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_096_0002",
+        "label": "B. A frame"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_096_0003",
+        "label": "C. A segment"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_096_0004",
+        "label": "D. A datagram"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_096_0002",
+    "correct_answer_label": "B. A frame",
+    "explanation": "When a message reaches the Data Link layer, it is called a frame. Data streams exist at the Application, Presentation, and Session layers, whereas segments and datagrams exist at the Transport layer (for TCP and UDP, respectively).",
+    "question_key": "tb255078_cissppt4e_pt4_096"
+  },
+  {
+    "id": "e0bc8f50-e15b-46ce-8164-87c3e8807419",
+    "title": "tb255078.CISSPPT4E.pt4.097",
+    "question_text": "What is the maximum penalty that may be imposed by an ISC2 peer review board when considering a potential ethics violation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_097_0001",
+        "label": "A. Revocation of certification"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_097_0002",
+        "label": "B. Termination of employment"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_097_0003",
+        "label": "C. Financial penalty"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_097_0004",
+        "label": "D. Suspension of certification"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_097_0001",
+    "correct_answer_label": "A. Revocation of certification",
+    "explanation": "If the ISC2 peer review board finds that a certified individual has violated the ISC2 Code of Ethics, the board may revoke their certification. The board is not able to terminate an individual’s employment or assess financial penalties.",
+    "question_key": "tb255078_cissppt4e_pt4_097"
+  },
+  {
+    "id": "383aca91-5a95-44fc-8a82-16253e8dbf14",
+    "title": "tb255078.CISSPPT4E.pt4.098",
+    "question_text": "Which one of the following statements about the SDLC is correct?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_098_0001",
+        "label": "A. The SDLC requires the use of an iterative approach to software development."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_098_0002",
+        "label": "B. The SDLC requires the use of a sequential approach to software development."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_098_0003",
+        "label": "C. The SDLC does not include training for end users and support staff."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_098_0004",
+        "label": "D. The waterfall methodology is compatible with the SDLC."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_098_0004",
+    "correct_answer_label": "D. The waterfall methodology is compatible with the SDLC.",
+    "explanation": "SDLC approaches include steps to provide operational training for support staff as well as end‐user training. The SDLC may use one of many development models, including the waterfall and spiral models. The SDLC does not mandate the use of an iterative or sequential approach; it allows for either approach.",
+    "question_key": "tb255078_cissppt4e_pt4_098"
+  },
+  {
+    "id": "412039ee-c683-4b0b-8faa-16fbda69c068",
+    "title": "tb255078.CISSPPT4E.pt4.099",
+    "question_text": "In the diagram shown here, Harry is prevented from reading a file at a higher classification level than his security clearance. What security model prevents this behavior?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_099_0001",
+        "label": "A. Bell–LaPadula"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_099_0002",
+        "label": "B. Biba"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_099_0003",
+        "label": "C. Clark–Wilson"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_099_0004",
+        "label": "D. Brewer–Nash"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_099_0001",
+    "correct_answer_label": "A. Bell–LaPadula",
+    "explanation": "The Bell–LaPadula model includes the Simple Security Property, which prevents an individual from reading information that is classified at a level higher than the individual’s security clearance.",
+    "question_key": "tb255078_cissppt4e_pt4_099"
+  },
+  {
+    "id": "2150969e-2607-430a-847d-1f43c4b69a10",
+    "title": "tb255078.CISSPPT4E.pt4.100",
+    "question_text": "Sylvia’s company’s new application allows users to sign up for banking services. Sylvia needs to identify a way to ensure that users are who they claim to be. What is this process called?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_100_0001",
+        "label": "A. Proofing"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_100_0002",
+        "label": "B. Registration"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_100_0003",
+        "label": "C. FIM"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_100_0004",
+        "label": "D. Single sign‐on"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_100_0001",
+    "correct_answer_label": "A. Proofing",
+    "explanation": "Identity proofing is the process of validating that the entity or individual claiming an identity is the actual person or organization that they claim to be. This commonly relies on additional information like documents or knowledge that others would not have. Registration is the process of creating an account. FIM is federated identity management, and SSO allows a single sign‐on to be used across multiple systems or services.",
+    "question_key": "tb255078_cissppt4e_pt4_100"
+  },
+  {
+    "id": "5e94ea8e-5bcc-4dae-affd-cd367a976ad4",
+    "title": "tb255078.CISSPPT4E.pt4.101",
+    "question_text": "Travis is concerned about the security that his organization’s use of Microsoft’s BitLocker provides for systems. When are the systems most secure from data loss based on the encryption state of the drive if the systems are equipped with TPM and use full‐disk encryption?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_101_0001",
+        "label": "A. When they are booted up and running because the system monitors for drive access"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_101_0002",
+        "label": "B. When the system is shutting down because keys are removed from memory"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_101_0003",
+        "label": "C. When they are booting up because the TPM checks for a secure boot process"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_101_0004",
+        "label": "D. When they are off because the drive is fully encrypted"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_101_0004",
+    "correct_answer_label": "D. When they are off because the drive is fully encrypted",
+    "explanation": "The files on the drive are at their most secure when the system is off and the drive is encrypted and not in a readable state. BitLocker decrypts files as needed when in use, meaning that any time after the system is booted files may be accessed, particularly if the user is logged in and access to the system can be gained or if malware is running.",
+    "question_key": "tb255078_cissppt4e_pt4_101"
+  },
+  {
+    "id": "ab139487-7cda-43ba-b252-500cef020f9f",
+    "title": "tb255078.CISSPPT4E.pt4.102",
+    "question_text": "Andrea wants to ensure that her virtualized networks are secure between virtual environments. She uses virtual machine clusters in multiple locations in her state with third‐party Internet service providers between those locations. Which of the following solutions is best suited to protecting her traffic if she runs a flattened layer 2 network between those locations?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_102_0001",
+        "label": "A. TLS"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_102_0002",
+        "label": "B. BGP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_102_0003",
+        "label": "C. IPsec"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_102_0004",
+        "label": "D. AES"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_102_0003",
+    "correct_answer_label": "C. IPsec",
+    "explanation": "An IPsec VPN will allow Andrea to keep her networks running as layer 2 flattened networks when necessary while providing the security for her traffic that she wants. TLS operates at a higher network layer, although traffic could be tunneled through it. BGP is a routing protocol, and AES is an encryption algorithm.",
+    "question_key": "tb255078_cissppt4e_pt4_102"
+  },
+  {
+    "id": "798ba1ff-8648-4298-b4a1-a3cb2f86426f",
+    "title": "tb255078.CISSPPT4E.pt4.103",
+    "question_text": "Please refer to the following scenario: The company that Fred works for is reviewing the security of their company‐issued cell phones. They issue 4G‐capable smartphones running Android and iOS and use a mobile device management solution to deploy company software to the phones. The mobile device management software also allows the company to remotely wipe the phones if they are lost.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_103_0001",
+        "label": "A. They should use the same requirements as data over any public network."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_103_0002",
+        "label": "B. Cellular provider networks are private networks and should not require special consideration."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_103_0003",
+        "label": "C. Encrypt all traffic to ensure confidentiality."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_103_0004",
+        "label": "D. Require the use of WAP for all data sent from the phone."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_103_0001",
+    "correct_answer_label": "A. They should use the same requirements as data over any public network.",
+    "explanation": "Cellular networks have the same issues that any public network does. Encryption requirements should match those that the organization selects for other public networks like hotels, conference Wi‐Fi, and similar scenarios. Encrypting all data is difficult and adds overhead, so it should not be the default answer unless the company specifically requires it. WAP is a dated wireless application protocol and is not in broad use; requiring it would be difficult. WAP does provide TLS, which would help when in use.",
+    "question_key": "tb255078_cissppt4e_pt4_103"
+  },
+  {
+    "id": "48ec837b-ee5e-40ef-b482-f9887c7ae7a0",
+    "title": "tb255078.CISSPPT4E.pt4.104",
+    "question_text": "Please refer to the following scenario: The company that Fred works for is reviewing the security of their company‐issued cell phones. They issue 4G‐capable smartphones running Android and iOS and use a mobile device management solution to deploy company software to the phones. The mobile device management software also allows the company to remotely wipe the phones if they are lost.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_104_0001",
+        "label": "A. Continue normal usage."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_104_0002",
+        "label": "B. Discontinue all usage; towers can be spoofed."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_104_0003",
+        "label": "C. Only use trusted Wi‐Fi networks."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_104_0004",
+        "label": "D. Connect to his company’s encrypted VPN service."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_104_0004",
+    "correct_answer_label": "D. Connect to his company’s encrypted VPN service.",
+    "explanation": "Fred’s best option is to use an encrypted, trusted VPN service to tunnel all of his data usage. Trusted Wi‐Fi networks are unlikely to exist at a hacker conference, normal usage is dangerous due to the proliferation of technology that allows fake towers to be set up, and discontinuing all usage won’t support Fred’s business needs.",
+    "question_key": "tb255078_cissppt4e_pt4_104"
+  },
+  {
+    "id": "f1fa66dd-1bd2-4779-bc24-3631d27392ba",
+    "title": "tb255078.CISSPPT4E.pt4.105",
+    "question_text": "Please refer to the following scenario: The company that Fred works for is reviewing the security of their company‐issued cell phones. They issue 4G‐capable smartphones running Android and iOS and use a mobile device management solution to deploy company software to the phones. The mobile device management software also allows the company to remotely wipe the phones if they are lost.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_105_0001",
+        "label": "A. The phone has a passcode on it."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_105_0002",
+        "label": "B. The phone cannot contact a network."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_105_0003",
+        "label": "C. The provider has not unlocked the phone."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_105_0004",
+        "label": "D. The phone is in use."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_105_0002",
+    "correct_answer_label": "B. The phone cannot contact a network.",
+    "explanation": "Remote wipe tools are a useful solution, but they work only if the phone can access either a cellular or Wi‐Fi network. Remote wipe solutions are designed to wipe data from the phone regardless of whether it is in use or has a passcode. Providers unlock phones for use on other cellular networks rather than for wiping or other feature support.",
+    "question_key": "tb255078_cissppt4e_pt4_105"
+  },
+  {
+    "id": "b003de78-7763-45d4-850b-e4502c198aba",
+    "title": "tb255078.CISSPPT4E.pt4.106",
+    "question_text": "Elaine is developing a business continuity plan for her organization. What value should she seek to minimize?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_106_0001",
+        "label": "A. AV"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_106_0002",
+        "label": "B. SSL"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_106_0003",
+        "label": "C. RTO"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_106_0004",
+        "label": "D. MTO"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_106_0003",
+    "correct_answer_label": "C. RTO",
+    "explanation": "The goal of business continuity planning exercises is to reduce the amount of time required to restore operations. This is done by minimizing the recovery time objective (RTO).",
+    "question_key": "tb255078_cissppt4e_pt4_106"
+  },
+  {
+    "id": "8c9f522a-ad69-488d-bcc7-43a520b30810",
+    "title": "tb255078.CISSPPT4E.pt4.107",
+    "question_text": "Warren wants to conduct an internal security audit. He wants to use a broadly accepted audit framework so that he can more easily compare the results to other organizations. Which of the following options should he select as his base audit framework?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_107_0001",
+        "label": "A. ITSM"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_107_0002",
+        "label": "B. ATT&CK"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_107_0003",
+        "label": "C. COBIT"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_107_0004",
+        "label": "D. CIS"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_107_0003",
+    "correct_answer_label": "C. COBIT",
+    "explanation": "The COBIT, or Control Objectives for Information and related Technologies, framework describes common requirements that organizations should have in place for their information systems. It is the only audit or compliance framework on the list. ITSM is the acronym for Information Technology Service Management; CIS is the Center for Information Security, which provides guidelines for system security that can be used to assess systems but is not itself an audit framework; and ATT&CK is a framework for describing threats and attack methodologies.",
+    "question_key": "tb255078_cissppt4e_pt4_107"
+  },
+  {
+    "id": "1a6328b4-e0a3-458f-8b06-dc07c736fc80",
+    "title": "tb255078.CISSPPT4E.pt4.108",
+    "question_text": "Place the list of disaster recovery test types in order of their potential operational impact on the business, starting with the least impactful and progressing through the most impactful.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_108_0001",
+        "label": "A. 1, 2, 3, 4"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_108_0002",
+        "label": "B. 1, 3, 2, 4"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_108_0003",
+        "label": "C. 1, 3, 4, 2"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_108_0004",
+        "label": "D. 2, 1, 3, 4"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_108_0002",
+    "correct_answer_label": "B. 1, 3, 2, 4",
+    "explanation": "The disaster recovery test types, listed in order of their potential impact on the business from the least impactful to the most impactful, are as follows: Checklist review Tabletop exercise Parallel test Full interruption test Checklist reviews are the least impactful type of exercise because they do not even require a meeting. Each team member reviews the checklist on their own. Tabletop exercises are slightly more impactful because they require bringing together the DR team in the same room. Parallel tests require the activation of alternate processing sites and require significant resources. Full interruption tests are the most impactful type of exercise because they involve shifting operations to the alternate site and could disrupt production activity.",
+    "question_key": "tb255078_cissppt4e_pt4_108"
+  },
+  {
+    "id": "406b88d4-3aa9-4bff-b3af-157a521f19dc",
+    "title": "tb255078.CISSPPT4E.pt4.109",
+    "question_text": "Jack’s data center design calls for dual‐power supplies in every critical server. What part of the CIA triad is he addressing with this design decision?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_109_0001",
+        "label": "A. Confidentiality"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_109_0002",
+        "label": "B. Integrity"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_109_0003",
+        "label": "C. Availability"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_109_0004",
+        "label": "D. None of the above"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_109_0003",
+    "correct_answer_label": "C. Availability",
+    "explanation": "Redundancy is part of many availability designs. Dual power supplies allow multiple levels of availability support; they allow you to connect servers to distinct power infrastructures and also provide the ability to run if a single power supply dies. Some servers are even set up to use more than two power supplies. Another approach to this type of availability is to use more systems, rather than more expensive systems with greater support for availability.",
+    "question_key": "tb255078_cissppt4e_pt4_109"
+  },
+  {
+    "id": "c0dea60f-aafa-458b-9cf2-2eadb76c844b",
+    "title": "tb255078.CISSPPT4E.pt4.110",
+    "question_text": "What step is missing from the IR process cycle diagram shown here?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_110_0001",
+        "label": "A. Forensics"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_110_0002",
+        "label": "B. Retribution"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_110_0003",
+        "label": "C. Recovery"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_110_0004",
+        "label": "D. Analysis"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_110_0003",
+    "correct_answer_label": "C. Recovery",
+    "explanation": "The CISSP CBK uses a six‐stage process: Detection, Response, Mitigation, Reporting, Recovery, and Remediation. This diagram is missing Recovery. Other standards differ, using different terms or slightly different processes.",
+    "question_key": "tb255078_cissppt4e_pt4_110"
+  },
+  {
+    "id": "1eb3b8f5-23a0-487e-840f-aeead9dbb1f2",
+    "title": "tb255078.CISSPPT4E.pt4.111",
+    "question_text": "The company that Felipe works for has connected servers they have hosted in a third‐party data center to vendor‐owned systems using fiber‐optic cables for a direct connection to them. What is this called?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_111_0001",
+        "label": "A. Ingress"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_111_0002",
+        "label": "B. Peering"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_111_0003",
+        "label": "C. East/west"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_111_0004",
+        "label": "D. Egress"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_111_0002",
+    "correct_answer_label": "B. Peering",
+    "explanation": "This is an example of peering. Peering can be either public peering, a connection through an Internet Exchange Point via a network connection, or private peering done directly with another entity in a colocation facility. Ingress is traffic coming into a network, egress is traffic that is leaving a network, and east/west refers to network traffic in the same zone or layer of a network.",
+    "question_key": "tb255078_cissppt4e_pt4_111"
+  },
+  {
+    "id": "31f3a651-2ddf-4934-9a79-9e848e908230",
+    "title": "tb255078.CISSPPT4E.pt4.112",
+    "question_text": "Megan wants to ensure that the new software as a service provider that her company is signing a contract with will make sure the service works all the time without disruptions. Which of the following is often part of contracts to provide that assurance?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_112_0001",
+        "label": "A. An SLA"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_112_0002",
+        "label": "B. An RPA"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_112_0003",
+        "label": "C. An NDA"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_112_0004",
+        "label": "D. An MOU"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_112_0001",
+    "correct_answer_label": "A. An SLA",
+    "explanation": "A service level agreement, or SLA, contains details about how the service will be provided, what level of outages or downtime is acceptable, and what remedies may exist in the case of outages or other issues. Megan should ensure that the SLA contains both appropriate performance guarantees and penalties that will be of sufficient magnitude to compensate her company for issues while motivating the service provider to maintain a reliable service. An RPA is robotic process automation, an automation technology. An NDA is a nondisclosure agreement, a legal document used to help control the risk of information or data being exposed or shared. An MOU is a memorandum of understanding and is used when two organizations want to work together to document a shared vision or the goals they share.",
+    "question_key": "tb255078_cissppt4e_pt4_112"
+  },
+  {
+    "id": "f1f5d916-eceb-4765-8072-8d8dfd74e329",
+    "title": "tb255078.CISSPPT4E.pt4.113",
+    "question_text": "Kyle wants to ensure that his organization’s backups are stored securely in case of a natural disaster or other event. What type of solution should he choose if he needs to store backup tapes?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_113_0001",
+        "label": "A. A cloud backup service"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_113_0002",
+        "label": "B. A hot site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_113_0003",
+        "label": "C. A media storage facility"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_113_0004",
+        "label": "D. A BaaS provider"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_113_0003",
+    "correct_answer_label": "C. A media storage facility",
+    "explanation": "Media storage facilities are frequently used when organizations want to securely store backups like tapes in a secure, temperature‐controlled facility. Cloud services are not used for physical backup media; hot sites are used to restore operations, not to store backup media; and BaaS is backup as a service—another description for a cloud backup service.",
+    "question_key": "tb255078_cissppt4e_pt4_113"
+  },
+  {
+    "id": "1cc1c55f-0eea-4d10-aa4c-7838e86781d9",
+    "title": "tb255078.CISSPPT4E.pt4.114",
+    "question_text": "Norm would like to conduct a disaster recovery test for his organization and wants to choose the most thorough type of test, recognizing that it may be quite disruptive. What type of test should Norm choose?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_114_0001",
+        "label": "A. Full interruption test"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_114_0002",
+        "label": "B. Parallel test"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_114_0003",
+        "label": "C. Tabletop exercise"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_114_0004",
+        "label": "D. Checklist review"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_114_0001",
+    "correct_answer_label": "A. Full interruption test",
+    "explanation": "During a full interruption test, the team takes down the primary site and confirms that the disaster recovery site is capable of handling regular operations. The full interruption test is the most thorough test but also the most disruptive. During a parallel test, the team actually activates the disaster recovery site for testing, but the primary site remains operational. The checklist review is the least disruptive type of disaster recovery test. During a checklist review, team members each review the contents of their disaster recovery checklists on their own and suggest any necessary changes. During a tabletop exercise, team members come together and walk through a scenario without making any changes to information systems.",
+    "question_key": "tb255078_cissppt4e_pt4_114"
+  },
+  {
+    "id": "c5b21d42-07e0-455b-9100-484efbeae315",
+    "title": "tb255078.CISSPPT4E.pt4.115",
+    "question_text": "Ed is building a network that supports IPv6 but needs to connect it to an IPv4 network. What type of device should Ed place between the networks?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_115_0001",
+        "label": "A. A switch"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_115_0002",
+        "label": "B. A router"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_115_0003",
+        "label": "C. A bridge"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_115_0004",
+        "label": "D. A gateway"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_115_0004",
+    "correct_answer_label": "D. A gateway",
+    "explanation": "Ed’s best option is to install an IPv6 to IPv4 gateway that can translate traffic between the networks. A bridge would be appropriate for different types of networks, whereas a router would make sense if the networks were similar. A modern switch might be able to carry both types of traffic but wouldn’t be much help translating between the two protocols.",
+    "question_key": "tb255078_cissppt4e_pt4_115"
+  },
+  {
+    "id": "6abd4c52-5db7-446e-8b02-3fc4d77449a4",
+    "title": "tb255078.CISSPPT4E.pt4.116",
+    "question_text": "Henry’s company has deployed an extensive IoT infrastructure for building monitoring that includes environmental controls, occupancy sensors, and a variety of other sensors and controllers that help manage the building. Which of the following security concerns should Henry report as the most critical in his analysis of the IoT deployment?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_116_0001",
+        "label": "A. The lack of local storage space for security logs that is common to IoT devices."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_116_0002",
+        "label": "B. The IoT devices may not have a separate administrative interface, allowing anybody on the same network to attempt to log into them and making brute‐force attacks possible."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_116_0003",
+        "label": "C. The IoT devices may not support strong encryption for communications, exposing the log and sensor data to interception on the network."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_116_0004",
+        "label": "D. The long‐term support and patching model for the IoT devices may create security and operational risks for the organization."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_116_0004",
+    "correct_answer_label": "D. The long‐term support and patching model for the IoT devices may create security and operational risks for the organization.",
+    "explanation": "Henry’s biggest concern should be the long‐term security and supportability of the IoT devices. As these devices are increasingly embedded in buildings and infrastructure, the support model and security model are important to understand. Both the lack of separate administrative access and the lack of strong encryption can be addressed by placing the IoT devices on a dedicated subnet or network that prevents other users from accessing the devices directly. This will help limit the risk without undue expense or complexity and is a common practice. Finally, lack of storage space can be a concern but is not the most important when looking at the risks IoT devices can create.",
+    "question_key": "tb255078_cissppt4e_pt4_116"
+  },
+  {
+    "id": "c7981934-63d2-4d1d-b3db-73c02268e658",
+    "title": "tb255078.CISSPPT4E.pt4.117",
+    "question_text": "Isaac wants to use a connectionless protocol to transfer data because he needs to optimize the speed of transmission over reliability. Which protocol should he select?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_117_0001",
+        "label": "A. ICMP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_117_0002",
+        "label": "B. TCP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_117_0003",
+        "label": "C. UDP"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_117_0004",
+        "label": "D. SNMP"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_117_0003",
+    "correct_answer_label": "C. UDP",
+    "explanation": "UDP, the User Datagram Protocol, is a connectionless, best‐effort protocol that is often used when sending data quickly without strong requirements for reliability features like error correction and detection or flow control to make sense. TCP is connection‐oriented and provides those and other reliability features. ICMP, the Internet Control Message Protocol, is used to check routes and paths as well as availability but is not used for significant data transfer in normal cases. SNMP is a network management monitoring protocol.",
+    "question_key": "tb255078_cissppt4e_pt4_117"
+  },
+  {
+    "id": "b2845ae8-f96c-4efc-9158-9cce0e2e09d3",
+    "title": "tb255078.CISSPPT4E.pt4.118",
+    "question_text": "Which one of the following actions is not required under the EU General Data Protection Regulation?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_118_0001",
+        "label": "A. Organizations must allow individuals to opt out of information sharing."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_118_0002",
+        "label": "B. Organizations must provide individuals with lists of employees with access to information."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_118_0003",
+        "label": "C. Organizations must use proper mechanisms to protect data against unauthorized disclosure."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_118_0004",
+        "label": "D. Organizations must have a dispute resolution process for privacy issues."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_118_0002",
+    "correct_answer_label": "B. Organizations must provide individuals with lists of employees with access to information.",
+    "explanation": "The EU General Data Protection Regulation does not require that organizations provide individuals with employee lists.",
+    "question_key": "tb255078_cissppt4e_pt4_118"
+  },
+  {
+    "id": "2ad595e2-1ed0-4313-84b1-cf717de1cfa3",
+    "title": "tb255078.CISSPPT4E.pt4.119",
+    "question_text": "Tammy is selecting a disaster recovery facility for her organization. She would like to choose a facility that balances the time required to recover operations with the cost involved. What type of facility should she choose?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_119_0001",
+        "label": "A. Hot site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_119_0002",
+        "label": "B. Warm site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_119_0003",
+        "label": "C. Cold site"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_119_0004",
+        "label": "D. Red site"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_119_0002",
+    "correct_answer_label": "B. Warm site",
+    "explanation": "Tammy should choose a warm site. This type of facility meets her requirements for a good balance between cost and recovery time. It is less expensive than a hot site but facilitates faster recovery than a cold site. A red site is not a type of disaster recovery facility.",
+    "question_key": "tb255078_cissppt4e_pt4_119"
+  },
+  {
+    "id": "fa29d504-6b11-4841-8f02-277cf4610c0a",
+    "title": "tb255078.CISSPPT4E.pt4.120",
+    "question_text": "What layer of the OSI model is associated with datagrams?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_120_0001",
+        "label": "A. Session"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_120_0002",
+        "label": "B. Transport"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_120_0003",
+        "label": "C. Network"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_120_0004",
+        "label": "D. Data Link"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_120_0002",
+    "correct_answer_label": "B. Transport",
+    "explanation": "When data reaches the Transport layer, it is sent as segments (TCP) or datagrams (UDP). Above the Transport layer, data becomes a data stream, while below the Transport layer, they are converted to packets at the Network layer, frames at the Data Link layer, and bits at the Physical layer.",
+    "question_key": "tb255078_cissppt4e_pt4_120"
+  },
+  {
+    "id": "2aa5dc65-90e2-4f57-b0b5-880022285696",
+    "title": "tb255078.CISSPPT4E.pt4.121",
+    "question_text": "Which one of the following is not a valid key length for the Advanced Encryption Standard?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_121_0001",
+        "label": "A. 128 bits"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_121_0002",
+        "label": "B. 192 bits"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_121_0003",
+        "label": "C. 256 bits"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_121_0004",
+        "label": "D. 384 bits"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_121_0004",
+    "correct_answer_label": "D. 384 bits",
+    "explanation": "The Advanced Encryption Standard supports encryption with 128‐bit keys, 192‐bit keys, and 256‐bit keys.",
+    "question_key": "tb255078_cissppt4e_pt4_121"
+  },
+  {
+    "id": "3347e8e3-e0ea-4fc8-ab51-6f628731deb1",
+    "title": "tb255078.CISSPPT4E.pt4.122",
+    "question_text": "Which one of the following technologies provides a function interface that allows developers to directly interact with systems without knowing the implementation details of that system?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_122_0001",
+        "label": "A. Data dictionary"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_122_0002",
+        "label": "B. Object model"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_122_0003",
+        "label": "C. Source code"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_122_0004",
+        "label": "D. API"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_122_0004",
+    "correct_answer_label": "D. API",
+    "explanation": "An application programming interface (API) allows developers to create a direct method for other users to interact with their systems through an abstraction that does not require knowledge of the implementation details. Access to object models, source code, and data dictionaries also indirectly facilitates interaction but does so in a manner that provides other developers with implementation details.",
+    "question_key": "tb255078_cissppt4e_pt4_122"
+  },
+  {
+    "id": "fbf3aaec-d5d6-4dc1-8b9e-ed66fda40feb",
+    "title": "tb255078.CISSPPT4E.pt4.123",
+    "question_text": "Ian wants to assess the security of his company’s new SaaS provider. Which of the following options is the most likely option that he can realistically expect to be able to use to assess a major cloud provider’s security?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_123_0001",
+        "label": "A. Run a vulnerability scan against the provider’s external services."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_123_0002",
+        "label": "B. Request a SOC 2 Type II report."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_123_0003",
+        "label": "C. Run a vulnerability scan against the provider’s internal systems."
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_123_0004",
+        "label": "D. Request a SOC 1 Type II report."
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_123_0002",
+    "correct_answer_label": "B. Request a SOC 2 Type II report.",
+    "explanation": "Ian’s best bet is a SOC report, and a SOC 2 Type II report will assess security controls and their application over time, telling him if the organization is responsibly maintaining their security efforts. A SOC 1 report looks at financial controls, and a Type I report only looks at how controls are described, not their application over time. Ian is unlikely to be allowed to run a vulnerability scan against a major provider’s infrastructure either internally or externally.",
+    "question_key": "tb255078_cissppt4e_pt4_123"
+  },
+  {
+    "id": "049d3ae4-b44c-4265-b4bf-e03d1c0b667e",
+    "title": "tb255078.CISSPPT4E.pt4.124",
+    "question_text": "Sharon wants to conduct a pass‐the‐hash attack. Which of the following is not a common means of acquiring NTLM hashes for the attack?",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_124_0001",
+        "label": "A. Dumping the system’s SAM"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_124_0002",
+        "label": "B. Dumping credentials from active memory"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_124_0003",
+        "label": "C. Capturing network traffic"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_124_0004",
+        "label": "D. Downloading the hashes from a third‐party site"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_124_0004",
+    "correct_answer_label": "D. Downloading the hashes from a third‐party site",
+    "explanation": "Pass‐the‐hash attacks (PtH) often rely on dumped local account databases (the SAM), capturing credentials from the network while they are in transit or from active memory. Pass‐the‐hash attacks are not typically conducted by downloading hashes from third‐party sites.",
+    "question_key": "tb255078_cissppt4e_pt4_124"
+  },
+  {
+    "id": "49651113-ce72-46e9-998b-b28f80b3ec6d",
+    "title": "tb255078.CISSPPT4E.pt4.125",
+    "question_text": "Match each one of the numbered protocols with the most accurate lettered description. Use each answer exactly once.",
+    "answer_choices": [
+      {
+        "value": "tb255078_cissppt4e_pt4_125_a_1",
+        "label": "A. Performs translations between MAC addresses and IP addresses"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_125_a_2",
+        "label": "B. Performs translations between FQDNs and IP addresses"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_125_a_3",
+        "label": "C. Transports data over a network in a connection‐oriented fashion"
+      },
+      {
+        "value": "tb255078_cissppt4e_pt4_125_a_4",
+        "label": "D. Transports data over a network in a connectionless fashion"
+      }
+    ],
+    "correct_answer_value": "tb255078_cissppt4e_pt4_125_a_3",
+    "correct_answer_label": "C. Transports data over a network in a connection‐oriented fashion",
+    "explanation": "ExplanationCorrect Answer: 1. C. Transports data over a network in a connection‐oriented fashion; 2. D. Transports data over a network in a connectionless fashion; 3. B. Performs translations between FQDNs and IP addresses; 4. A. Performs translations between MAC addresses and IP addressesThe Domain Name System (DNS) translates human‐friendly fully qualified domain names (FQDNs) into IP addresses, making it possible to easily remember websites and hostnames. ARP is used to resolve IP addresses into MAC addresses. TCP and UDP are used to control the network traffic that travels between systems. TCP does so in a connection‐oriented fashion using the three‐way handshake, while UDP uses connectionless “best‐effort” delivery.",
+    "question_key": ""
+  }
+]
